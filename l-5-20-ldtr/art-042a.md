@@ -1,0 +1,2 @@
+# Art. 42A Travaux ordonnés par le département
+En cas de défaut d’entretien mettant en péril une structure ou l’habitabilité d’un immeuble, le département, notamment sur demande d’un locataire, peut ordonner l’exécution des travaux nécessaires, le cas échéant les faire exécuter aux frais du propriétaire selon la procédure des travaux d’office prévus aux articles 133 et suivants et 140 et suivants de la loi sur les constructions et les installations diverses, du 14 avril 1988.
