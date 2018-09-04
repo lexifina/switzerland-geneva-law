@@ -1,0 +1,2 @@
+# Art. 2A Indexation
+Dans les limites prescrites aux articles 26 de la loi sur le domaine public, du 24 juin 1961, et 59 de la loi sur les routes, du 28 avril 1967, les taxes et redevances prévues dans le présent règlement sont adaptées tous les 5 ans à l'évolution du coût de la vie, calculée à partir de la date d'entrée en vigueur de la présente disposition selon l'indice genevois des prix à la consommation.
