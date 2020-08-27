@@ -1,0 +1,3 @@
+# Art. 15A Protection contre le bruit
+1 Afin de faire respecter les valeurs limites d'immission, le Conseil d'Etat entreprend des mesures structurelles sur la source des nuisances, en particulier les travaux sur la voirie, l'orientation du choix de motorisation des véhicules, les chantiers et l'industrie.
+2 Lorsque des dépassements des valeurs limites d'immission du bruit fixées par la législation fédérale sur la protection de l'environnement sont constatés, afin de limiter à la source les émissions bruyantes, le Conseil d'Etat définit et met en œuvre, dans un délai de 6 mois, des mesures supplémentaires, dont en particulier des contrôles de véhicules bruyants et la limitation de l'utilisation de certaines installations, dans le respect du droit fédéral.

@@ -1,0 +1,6 @@
+# Art. 15E Circulation différenciée
+1 En cas de pics de pollution aux particules fines, à l’ozone ou aux oxydes d’azote, le Conseil d’Etat applique des restrictions temporaires de circulation des véhicules en fonction de leurs performances environnementales. Des exceptions à cette restriction de circulation sont prévues dans le règlement d’application.
+2 Ces restrictions temporaires s’appliquent à l’intérieur du périmètre de la moyenne ceinture routière, telle que définie par l’article 6, alinéa 2, de la loi pour une mobilité cohérente et équilibrée, du 5 juin 2016.
+3 Ces restrictions temporaires s’appliquent à tous les véhicules motorisés circulant dans les zones visées à l’alinéa 2, y compris aux véhicules qui ne sont pas immatriculés dans le canton de Genève.
+4 La définition des classes de véhicules motorisés en fonction de leurs performances environnementales se fait sur la base des normes Euro. Le règlement d’application définit au minimum 5 classes, le système d’identification des véhicules par le biais de macarons, ainsi que les modalités de mise en œuvre de ce dispositif de macarons.
+5 Les véhicules sans macaron ont interdiction de circuler dans les zones définies à l’alinéa 2. Ils peuvent emprunter le réseau autoroutier.
