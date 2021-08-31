@@ -1,0 +1,4 @@
+# Art. 3C Concours international – Accord sur la libre circulation des personnes
+1 L'Etat dans lequel est exercée l'activité lucrative est compétent pour verser les allocations familiales.
+2 Lorsque les deux parents exercent une activité lucrative dans différents Etats, dont l'un constitue également le domicile des enfants, ce dernier est seul compétent.
+3 Est réservé le versement d'un complément différentiel lorsque les prestations prévues par la présente loi sont plus élevées que celles versées par l'Etat de domicile des enfants pour autant que l'Accord entre la Confédération suisse, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, sur la libre circulation des personnes, du 21 juin 1999, ou la Convention du 4 janvier 1960 instituant l'Association européenne de libre-échange soit applicable.

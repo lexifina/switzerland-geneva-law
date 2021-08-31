@@ -1,0 +1,3 @@
+# Art. 12A Allocations pour cas spéciaux
+1 La caisse d'allocations familiales pour personnes sans activité, prévue par l'article 18, alinéa 3, verse des prestations aux personnes dans le besoin, qui ont des enfants à leur charge et qui n'ont aucun droit à des allocations familiales ou des prestations similaires.
+2 Elle verse également des allocations familiales pour les enfants et les jeunes en formation, domiciliés dans le canton, pour lesquels n'existe aucun bénéficiaire au sens de l'article 3 touchant ces allocations. Ces situations ne sont pas soumises à la condition de revenu prévue par l'article 12B, alinéa 2.

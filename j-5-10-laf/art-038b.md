@@ -1,0 +1,4 @@
+# Art. 38B Révision et reconsidération
+1 Les décisions et les décisions sur opposition formellement passées en force sont soumises à révision si le bénéficiaire ou les caisses, respectivement le fonds cantonal de compensation des allocations familiales, découvrent subséquemment des faits nouveaux importants ou trouvent des nouveaux moyens de preuve qui ne pouvaient être produits avant.
+2 Les caisses ou le fonds cantonal de compensation des allocations familiales peuvent revenir sur les décisions ou les décisions sur opposition formellement passées en force lorsqu'elles sont manifestement erronées et que leur rectification revêt une importance notable.
+3 Jusqu'à l'envoi de leur préavis à l'autorité de recours, les caisses ou le fonds cantonal de compensation des allocations familiales peuvent reconsidérer une décision ou une décision sur opposition contre laquelle un recours a été formé.
