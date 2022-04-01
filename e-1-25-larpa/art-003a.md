@@ -1,0 +1,2 @@
+# Art. 3A Soutien à l’obtention des allocations familiales
+Le service assiste la personne créancière d’une pension alimentaire dans ses démarches administratives en vue d’obtenir le versement direct des allocations familiales, au sens de l’article 9 de la loi fédérale sur les allocations familiales et les aides financières allouées aux organisations familiales, du 24 mars 2006, si celles-ci sont comprises dans le titre d’entretien.
