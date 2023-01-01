@@ -1,0 +1,6 @@
+# Art. 9A Montants
+1 Le chèque annuel de formation correspond au coût de 40 heures de cours de formation continue dispensées à Genève dans tous les domaines d’activité. Des exceptions à ce principe peuvent être prévues par voie réglementaire. Pour les formations qualifiantes, les formations de base, les formations ciblées sur un métier, les formations transversales avec certification, le montant du chèque annuel de formation ne peut être supérieur à 750 francs. Pour les formations transversales sans certification, le montant du chèque annuel ne peut être supérieur à 500 francs.
+2 Afin d’encourager durablement la formation continue des adultes, il est possible, en dérogation à l’alinéa 1, de financer une formation jusqu’à concurrence de 2 250 francs par période de 3 ans (soit trois fois 750 francs) dans les 2 cas suivants :
+a) le cours proposé fait partie intégrante d’une formation qualifiante conduisant à l’obtention d’un titre reconnu officiellement au sens de l’article 9, alinéa 3, lettre a;
+b) le cours proposé concerne les formations de base au sens de l’article 9, alinéa 3, lettre b.
+Dans ce cas, le montant du chèque est calculé au prorata du nombre d’heures de formation prévues sur la base de 2 250 francs maximum par période de 3 ans pour 120 heures de formation.
