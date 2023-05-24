@@ -1,0 +1,3 @@
+# Art. 7A Secteurs
+1 Dans les secteurs délimités par le plan annexé, la réglementation locale du trafic limite la durée du parcage des véhicules automobiles sur la voie publique, au moins du lundi au vendredi et de 9 h à 17 h, à l'exception des voitures automobiles des résidents ou identifiées par un macaron multizones.
+2 A l'extérieur des secteurs délimités par le plan annexé, une réglementation locale du trafic édictée par le département en collaboration avec les communes concernées peut limiter la durée du parcage des voitures automobiles sur la voie publique, à l'exception de celles des résidents ou identifiées par un macaron multizones.

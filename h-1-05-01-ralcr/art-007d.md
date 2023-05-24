@@ -1,0 +1,5 @@
+# Art. 7D Procédure
+1 La gestion des macarons est effectuée par la Fondation des parkings, laquelle octroie les macarons ou en refuse la délivrance. Pour les macarons « activité » visés à l'article 7B, lettre b, le nombre maximum de macarons octroyé par la Fondation des parkings est de deux par entité visée à l'article 7B, lettre b.
+2 Pour les macarons « activité » visés à l'article 7B, lettre b, le département, sur préavis du département chargé de l'économie, peut, dans les cas dûment justifiés, prendre une décision admettant un nombre supplémentaire de macarons par entité, en se basant sur les critères de délivrance fixés à l'article 7B, lettre b.
+3 Les macarons octroyés sont valables pour une durée d'une année; leur renouvellement est régulièrement subordonné à un nouvel examen des conditions d'octroi effectué par la Fondation des parkings.
+4 Le département exerce une tâche de surveillance. Un refus de délivrance de macarons par la Fondation des parkings peut être contesté par la personne requérante auprès du département, lequel rend alors une décision motivée et comportant l'indication de la voie de recours.

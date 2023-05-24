@@ -1,0 +1,3 @@
+# Art. 4A Consultation
+1 La consultation du département par la commune de site dans le cadre d’un projet de réglementation locale du trafic impactant plusieurs communes au sens de l'article 5A de la loi a lieu lors d'une séance entre les services des deux autorités ou prend la forme d'un document décrivant le projet, afin que le département puisse se déterminer et en informer les communes impactées.
+2 Une modification de schéma de circulation (sens de circulation, mouvements autorisés, etc.) ou un abaissement de vitesse pour mettre en place une zone 30 ou une zone de rencontre, ou pour passer du 80 au 50 kilomètres/heure autorisés, constituent notamment des mesures pouvant impacter plusieurs communes.

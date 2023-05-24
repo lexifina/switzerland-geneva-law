@@ -1,0 +1,2 @@
+# Art. 7J Modalités de prise en compte de places de stationnement disponibles dans des parkings en ouvrage privés à usage privé
+S'agissant de la prise en compte des places dans des parkings privés à usage privé, la compensation s'exerce sur la base des places vacantes communiquées par les différents propriétaires immobiliers ou leurs représentants. Une base de données est établie par le département et est mise à jour annuellement.
