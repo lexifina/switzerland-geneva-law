@@ -1,0 +1,2 @@
+# Art. 2B Droits humains
+Dans leur mission socio-éducative, les centres intègrent la sensibilisation des jeunes aux droits humains, notamment en matière de violences, de harcèlement et de discriminations directes ou indirectes fondées sur une caractéristique personnelle, notamment l’origine, l’âge, le sexe, l’orientation affective et sexuelle, l’identité de genre, l’expression de genre, l’intersexuation, les incapacités, les particularités physiques, la situation sociale ou familiale, les convictions religieuses ou politiques.
