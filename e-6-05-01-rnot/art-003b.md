@@ -1,0 +1,2 @@
+# Art. 3B Modalités de la copie certifiée électronique
+La certification de conformité d'une copie à un document original peut être apposée sur la copie papier (photocopie) ou électronique (scan) du document en question. Dans le dernier cas, le notaire intègre sa certification de conformité à sa signature électronique qualifiée au sens de la loi fédérale sur les services de certification dans le domaine de la signature électronique, du 19 décembre 2003.
