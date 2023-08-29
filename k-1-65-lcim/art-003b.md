@@ -1,0 +1,4 @@
+# Art. 3B Autorisations de transport
+1 Les transports de corps hors des limites du canton ont lieu conformément aux prescriptions du canton de destination et, le cas échéant, à l'ordonnance fédérale sur le transport et la sépulture de cadavres présentant un danger de contagion ainsi que le transport des cadavres en provenance ou à destination de l'étranger, du 17 juin 1974.
+2 Les transports de corps à destination des Etats qui ont ratifié l'accord sur le transfert des corps des personnes décédées, conclu à Strasbourg le 26 octobre 1973, et entré en vigueur pour la Suisse le 18 janvier 1980, sont régis par cet accord. Les transports vers les autres pays sont effectués en respectant les dispositions prévues aux articles 3 et 7 de ce même accord.
+3 Les dispositions résultant d'accords bilatéraux, concernant notamment les transports entre régions frontalières, sont expressément réservées.

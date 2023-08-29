@@ -1,0 +1,3 @@
+# Art. 3C Enfants mort-nés
+1 L'enfant mort-né dont le poids est d'au moins 500 grammes ou dont la gestation a duré au moins 22 semaines fait l'objet d'un certificat de décès établi par un médecin et est enregistré auprès de l'arrondissement de l'état civil; sur demande, le centre universitaire délivre une autorisation d'inhumer ou d'incinérer.
+2 L'enfant mort-né de moins de 500 grammes ou dont la gestation a duré moins de 22 semaines ne fait pas l'objet d'un certificat de décès et n'est pas inscrit dans le registre de l'état civil; exceptionnellement, pour des raisons majeures, compte tenu de l'ensemble des circonstances, le centre universitaire peut également délivrer une autorisation en vue de son inhumation ou de son incinération.
