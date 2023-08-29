@@ -1,0 +1,3 @@
+# Art. 59A Compétences de la commission pour la surveillance des marchés publics
+1 La commission pour la surveillance des marchés publics instituée par l’article 16, alinéa 2, de la loi sur le service de l’emploi et la location de services, du 18 septembre 1992, coordonne les actions à entreprendre en cas de violation importante des conditions de travail ou de salaire par des entreprises exécutantes.
+2 Lorsqu’un cas soulève des aspects généraux, la commission pour la surveillance des marchés publics peut porter ses constats devant la commission consultative visée à l’article 59 du présent règlement et émettre des propositions.
