@@ -1,0 +1,2 @@
+# Art. 39B Contrôle périodique des dossiers
+Le département des finances, des ressources humaines et des affaires extérieures est autorisé à communiquer au personnel du service chargé du contrôle périodique des dossiers les renseignements nécessaires pour effectuer ce contrôle, soit en particulier les éléments composant le revenu soumis à l'impôt et la fortune imposable, selon la législation genevoise sur l'imposition des personnes physiques. Il peut être procédé par échange informatique de données.
