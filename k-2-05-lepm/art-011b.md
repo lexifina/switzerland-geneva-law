@@ -1,0 +1,4 @@
+# Art. 11B Répartition des honoraires
+1 Les bénéficiaires de la pratique privée participent aux charges d’exploitation des établissements à raison d’un montant s’élevant à 40% au plus des honoraires encaissés.
+2 Du solde des honoraires encaissés, les établissements peuvent prélever un montant supplémentaire, affecté au soutien et au développement de leurs activités médicales et de recherche, ainsi qu’à la rétribution d’activités cliniques particulières. Ils peuvent constituer à cette fin des fonds gérés de façon décentralisée dans leurs départements ou leurs services.
+3 L’affectation d’une partie des recettes de la pratique privée aux activités visées à l’alinéa 2 s’effectue pour chaque période annuelle selon un taux progressif calculé par tranche d’honoraires encaissés. Ce taux, qui s’élève au départ à 10%, peut atteindre, par tranche de 100 000 francs, 80% au maximum pour la tranche d’honoraires supérieure à 700 000 francs.

@@ -1,0 +1,5 @@
+# Art. 2A Contrats de prestations
+1 Les établissements concluent avec l’Etat un contrat de prestations d’une durée de 4 ans.
+2 Ce contrat leur confère une autonomie de gestion accrue et assure des prestations de qualité au meilleur prix. Il contient notamment les prestations fournies par les établissements, le plan financier pluriannuel et le montant des indemnités annuelles de fonctionnement de l’Etat, pour ce qui concerne la formation, la recherche et les missions d’intérêt général.
+3 Un projet de loi de financement pluriannuel, auquel est annexé le contrat de prestations entre l’Etat et les établissements, y compris le montant des contributions financières de l’Etat qui sont fixées par tranche annuelle pour la durée totale du contrat, est soumis au Grand Conseil. L’adoption de la loi par le Grand Conseil porte ratification du contrat de prestations.
+4 Le montant du cofinancement des prestations de soins dû par l’Etat au sens de la loi fédérale sur l’assurance-maladie, du 18 mars 1994, dépend du nombre de prestations effectuées et ne peut être déterminé à l’avance. Il fait l’objet d’une facturation séparée des établissements à l’Etat.

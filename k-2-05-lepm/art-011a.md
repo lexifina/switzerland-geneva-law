@@ -1,0 +1,4 @@
+# Art. 11A Pratique privée
+1 En dérogation au principe énoncé à l’article 10 le conseil d’administration peut autoriser certains médecins des établissements à exercer une activité privée limitée, pour autant qu’elle n’entrave pas le fonctionnement du service. Cette autorisation est personnelle et intransmissible. Elle est révocable en tout temps.
+2 Le conseil d’administration élabore un règlement qui fixe les conditions d’exercice de l’activité privée et détermine les catégories de médecins qui peuvent être mis au bénéfice d’une autorisation. Le conseil d’administration établit en outre la liste des médecins autorisés à traiter une clientèle privée.
+3 En cas d’absence du bénéficiaire de la dérogation et d’impératif absolu de continuité des soins, la clientèle privée stationnaire est confiée au service public, et la clientèle ambulatoire selon son choix soit au service public, soit à un médecin privé autorisé à pratiquer dans le canton.

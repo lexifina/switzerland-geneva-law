@@ -1,0 +1,3 @@
+# Art. 21B Médecins chefs de service
+1 Les médecins chefs de service sont engagés par le conseil d’administration des établissements et le recteur de l’Université de Genève. Le règlement sur la collaboration hospitalo-universitaire et le statut du corps professoral, du 19 janvier 2011, règle leur statut.
+2 A titre exceptionnel, le conseil d’administration des établissements peut procéder seul à la nomination d’un chef de service hospitalier n’exerçant pas simultanément une fonction professorale lorsque, d’une part, la spécificité et le bon fonctionnement d’un service médical le requièrent et que, d’autre part, l’Université de Genève n’envisage pas la création d’un poste professoral.
