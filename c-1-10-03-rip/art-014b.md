@@ -1,0 +1,8 @@
+# Art. 14B Financement des sorties scolaires
+1 On entend par sortie scolaire au sens de l’article 53, alinéa 3, de la loi sur l’instruction publique, du 17 septembre 2015, les camps et les courses d'école avec ou sans nuitée.
+2 Les sorties scolaires sont financées par les parents, les communes et le canton.
+3 La participation demandée aux parents est définie par voie de directive départementale.
+4 Les communes assurent le financement des sorties scolaires de l'enseignement primaire, après déduction de la participation des parents et des frais découlant de la mise à disposition des maisons appartenant au canton. Un montant par élève et par type de sortie scolaire est défini dans une directive départementale, soumise à consultation auprès de l'Association des communes genevoises, pour le chapitre relevant du financement des communes.
+5 La participation financière des communes fait l’objet d’une double facturation annuelle par le canton, en janvier et en septembre, en fonction des élèves domiciliés sur le territoire de celles-ci, dont la classe a bénéficié d'une sortie scolaire. Au mois d'octobre, le canton transmet aux communes un décompte pour l’année scolaire écoulée détaillant le coût effectif des sorties scolaires. Les modalités de traitement de l'excédent ou de l'insuffisance de financement sont applicables à l'ensemble des communes et définies annuellement d'un commun accord entre le canton et l'Association des communes genevoises.
+6 En vue de l’élaboration des budgets communaux, le canton transmet aux communes, au mois de juillet, une estimation de leur participation financière pour l’année civile à venir.
+7 Le canton assure le financement des sorties scolaires de l'enseignement secondaire I, après déduction de la participation des parents.
