@@ -1,0 +1,2 @@
+# Art. 8B Allocation d’adoption en cas de chômage ou d’incapacité de travail
+Les futurs parents adoptifs dont le droit aux prestations fédérales n’est pas ouvert pour cause d’incapacité de travail ou de chômage peuvent bénéficier des prestations cantonales, s’ils remplissent les conditions découlant de la réglementation en lien avec l’article 16b, alinéa 3, de la loi fédérale, applicable par analogie.
