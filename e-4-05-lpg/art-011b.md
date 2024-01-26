@@ -1,0 +1,2 @@
+# Art. 11B Bonneteau et jeux analogues
+Sera puni de l'amende celui qui aura organisé sur le domaine public ou en un lieu accessible au public une partie de bonneteau ou tout jeu donnant l'apparence d'offrir des chances de réaliser un gain en argent ou d'obtenir un autre avantage matériel, à moins que ce comportement ne tombe sous le coup d'une disposition de droit fédéral prévoyant une peine plus sévère.

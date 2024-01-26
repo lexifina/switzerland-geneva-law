@@ -1,0 +1,3 @@
+# Art. 11D Trouble à la tranquillité publique
+1 Celui qui, par la voix, au moyen d’un instrument ou d’un appareil produisant ou amplifiant des sons, avec un instrument ou un appareil dont le fonctionnement ou la manipulation sont bruyants, ou de quelque autre manière, aura troublé la tranquillité publique, sera puni de l’amende.
+2 Par voie de règlement, le Conseil d’Etat peut interdire des comportements bruyants déterminés, en restreindre l’adoption à certains lieux, jours ou heures, ainsi que les soumettre à des conditions. La violation des dispositions ainsi édictées est punie en application du présent article.
