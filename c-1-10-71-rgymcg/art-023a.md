@@ -1,0 +1,17 @@
+# Art. 23A Options spécifiques composites – 1re année
+La note annuelle pour les options spécifiques composites en 1re année se calcule de la manière suivante :
+Physique et application des mathématiques
+Physique | 100%
+Application des mathématiques | -----
+Biologie et chimie
+Biologie | 50%
+Chimie | 50%
+Economie et droit
+Economie | 50%
+Droit | 50%
+Arts visuels
+Arts plastiques | 2/3
+Histoire de l'art | 1/3
+Musique
+Musique | 2/3
+Pratique instrumentale | 1/3

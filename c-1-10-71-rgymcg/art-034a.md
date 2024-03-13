@@ -1,0 +1,6 @@
+# Art. 34A Retour de séjour
+Séjour de 20 semaines
+1 Au retour d'un séjour de 20 semaines, ayant eu lieu au 1er semestre, l'élève est évalué uniquement sur le 2e semestre, sauf pour les disciplines dont la note compose la note de maturité, pour lesquelles un examen portant sur le champ du 1er semestre est organisé.
+Séjour d'une année scolaire
+2 Pour le parcours avec un séjour d'une année scolaire, l'élève intègre la 3e année à son retour s'il a obtenu, avant son départ, une moyenne générale égale ou supérieure à 5,0 ou 19,0 de total cumulé des disciplines suivantes : français, mathématiques, langue 2 et langue 3. Au cours du 1er semestre de la 3e année du collège, l’élève est évalué dans les disciplines de 2e année dont la note constitue la note de maturité.
+3 Lorsque le séjour d'une durée d'une année scolaire a lieu en Suisse alémanique, l'élève qui n'avait pas obtenu avant son départ les résultats fixés à l'alinéa 2 peut être intégré en 3e année à son retour, s'il a obtenu la promotion dans l’établissement d’accueil, sous réserve que le programme suivi corresponde au programme de la 2e année au collège de Genève. Le cas échéant, les notes acquises en Suisse alémanique dans les disciplines correspondantes sont validées pour la maturité gymnasiale.
