@@ -1,0 +1,2 @@
+# Art. 23B Personnel médical
+Jusqu’à l’entrée en vigueur d’une nouvelle évaluation des fonctions, les médecins des HUG dès la classe 27 exerçant des responsabilités hiérarchiques peuvent percevoir une indemnité, égale à 8,3% de leur salaire annuel, versée en 13 mensualités. Le traitement, indemnité incluse, ne peut dépasser le montant correspondant à la classe 33, position 14, de l’échelle des traitements. Le Conseil d’Etat fixe par règlement la liste des bénéficiaires.
