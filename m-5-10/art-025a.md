@@ -1,0 +1,9 @@
+# Art. 25A Documents de base
+1 Les documents de base doivent permettre d’identifier, de localiser et de quantifier les types de dangers naturels, les événements et les risques afférents; ils servent également à répertorier les ouvrages de protection et les forêts de protection.
+2 Les documents de base comprennent principalement :
+a) le cadastre des événements;
+b) le cadastre des ouvrages de protection;
+c) les cartes indicatives des dangers;
+d) les cartes de dangers naturels;
+e) les analyses de risques;
+f) les cartes des forêts protectrices.

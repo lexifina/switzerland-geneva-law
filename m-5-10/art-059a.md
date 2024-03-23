@@ -1,0 +1,4 @@
+# Art. 59A Surveillance et accès
+1 Les personnes propriétaires, usufruitières ou locataires sont tenues de laisser les agentes et agents et gardes assermentés chargés de l’application de la présente loi et de son règlement d’application accéder à leurs terrains pour y effectuer les interventions requises et de leur fournir tous renseignements utiles.
+2 Les usagères et usagers doivent se conformer aux mesures ordonnées par l’autorité compétente.
+3 Toute personne suspectée d’infraction à la présente loi et à son règlement d’application est tenue de faciliter l’exercice de leur mandat aux agentes et agents et gardes assermentés chargés de la surveillance; elle doit notamment répondre sans délai à toute demande de renseignement, se conformer aux ordres donnés par les agentes et agents et gardes et les laisser examiner le contenu de son sac ou du véhicule qu’elle utilise.
