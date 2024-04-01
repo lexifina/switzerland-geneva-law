@@ -1,0 +1,4 @@
+# Art. 6A Préavis
+1 Pour les demandes d'abattage non liées à des demandes d'autorisation de construire ou de démolir, l'office cantonal sollicite, en cas de besoin, le préavis des autres services et, en particulier, celui de l'office du patrimoine et des sites s'agissant des arbres situés dans des sites protégés.
+2 Les services consultés doivent formuler leur préavis dans un délai de 15 jours. A l'échéance du délai de 15 jours, le département peut statuer, considérant que le défaut de réponse équivaut à une approbation sans réserve.
+3 Dans les immeubles classés au sens de l'article 15 de la loi, les autorisations d'abattage ne peuvent être délivrées que sur préavis favorable de la commission des monuments, de la nature et des sites; cette dernière formule son préavis dans un délai de 30 jours.
