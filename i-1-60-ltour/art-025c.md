@@ -1,0 +1,2 @@
+# Art. 25C Situation de crise extraordinaire
+En cas de situation de crise extraordinaire entraînant une baisse considérable du tourisme, le Conseil d’Etat peut, par voie réglementaire, exempter de la taxe de base certaines activités économiques visées aux articles 25 et 25A. Le Conseil d’Etat n’use de cette compétence que lorsque l’activité économique est fortement restreinte et que la perception de la taxe de base serait financièrement préjudiciable.
