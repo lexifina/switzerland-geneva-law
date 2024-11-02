@@ -1,0 +1,3 @@
+# Art. 16E Investissements
+1 Les éventuels montants mis en réserve en vue de l'acquisition d'investissements futurs doivent apparaître séparément au bilan. Ils ne peuvent être utilisés par l'établissement que pour financer des équipements conformes au but et aux objectifs visés par le mandat de prestations.
+2 Tout investissement structurel et/ou lié à l’acquisition de grands appareils, projeté et qui est en rapport avec l'activité définie par les mandats de prestations, doit préalablement faire l'objet d’un rapport soumis au département chargé de la santé pour approbation de la prise en compte de cet investissement dans le calcul du coût de la prestation.

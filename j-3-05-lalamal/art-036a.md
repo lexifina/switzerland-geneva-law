@@ -1,0 +1,4 @@
+# Art. 36A Révision et reconsidération
+1 Les décisions et les décisions sur opposition formellement passées en force sont soumises à révision si l'assuré ou les organes d'exécution de la LAMal et de la présente loi découvrent subséquemment des faits nouveaux importants ou trouvent des nouveaux moyens de preuve qui ne pouvaient être produits avant.
+2 Les organes d'exécution de la LAMal et de la présente loi peuvent revenir sur les décisions ou les décisions sur opposition formellement passées en force lorsqu'elles sont manifestement erronées et que leur rectification revêt une importance notable.
+3 Jusqu'à l'envoi de leur préavis à l'autorité de recours, les organes d'exécution de la LAMal et de la présente loi peuvent reconsidérer une décision ou une décision sur opposition contre laquelle un recours a été formé.

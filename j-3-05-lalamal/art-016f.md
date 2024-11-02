@@ -1,0 +1,3 @@
+# Art. 16F Prise en charge des coûts
+1 Les prestations hospitalières faisant l'objet d'un mandat de prestations sont rémunérées selon les structures tarifaires uniformes instaurées à l'échelon national.
+2 Le canton cofinance les prestations réalisées. A cette fin, le Conseil d’Etat fixe, au plus tard 9 mois avant le début de l’année civile, la part cantonale de financement au sens de l’article 49a LAMal. Il ne cofinance toutefois les prestations en faveur des assurés disposant d’une couverture d’assurance complémentaire privée que lorsque l’obligation d’admettre de l’article 16B, alinéa 5, lettre g, de la présente loi est respectée.

@@ -1,0 +1,4 @@
+# Art. 24A Assuré domicilié à l'étranger
+1 L'assuré domicilié à l'étranger de condition économique modeste doit présenter une requête dûment motivée au service de l'assurance-maladie, accompagnée des documents justifiant de sa situation de revenus et de sa fortune.
+2 Le Conseil d’Etat détermine les limites de revenu, les montants des subsides ainsi que les revenus et la fortune qui doivent être pris en compte pour le calcul du revenu déterminant le droit aux subsides de l’assuré domicilié à l’étranger. Le revenu pris en compte est corrigé en fonction de la différence du pouvoir d’achat entre la Suisse et le pays de résidence de l’assuré sur la base du pouvoir d’achat dans le pays de résidence.
+3 Le droit aux subsides naît le premier jour du mois du dépôt de la requête, sous réserve de situations particulières justifiant un effet rétroactif au 1er janvier de l'année en cours.
