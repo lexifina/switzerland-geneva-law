@@ -1,0 +1,8 @@
+# Art. 13B Aggravation de la situation
+1 Les assurés dont la situation économique s’est durablement et notablement aggravée entre l’année de référence pour l’octroi des subsides et l’année d’ouverture du droit aux subsides peuvent solliciter l’octroi de ces derniers, adaptés à la nouvelle situation, par une demande écrite adressée au service.
+2 Est considérée comme durable l'aggravation intervenue depuis plus de 6 mois.
+3 Est considérée comme notable l'aggravation qui engendre une diminution de 20% ou plus du revenu déterminant actualisé par rapport au revenu déterminant de l'année de référence pour l'octroi des subsides.
+4 Dans ce cas, le droit au subside est calculé sur la base du revenu déterminant actualisé du groupe familial. Il naît le 1er janvier de l'année d'ouverture du droit aux prestations.
+5 Les demandes doivent être adressées au service avant le 30 novembre de l'année d'ouverture du droit aux subsides. Toutefois, si l'aggravation de la situation financière se produit durant le deuxième semestre de l'année, le délai pour le dépôt d'une demande selon l'alinéa 1 court jusqu'au 30 juin de l'année suivante.
+Dérogation pour les subsides 2021
+6 En dérogation aux alinéas 1, 2 et 4, le droit aux subsides pour l'année 2021 est recalculé en cas d'aggravation notable de la situation économique de l'assuré entre l'année de référence pour l'octroi des subsides et l'année d'ouverture du droit aux subsides. Dans ce cas, le droit aux subsides est déterminé sur la base d'un revenu provisoire calculé en application, par analogie, de l’article 9, alinéa 2, de la loi sur le revenu déterminant unifié, du 19 mai 2005. Le droit aux subsides naît le 1er janvier de l’année d’ouverture du droit aux prestations.

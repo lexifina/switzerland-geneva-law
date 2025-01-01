@@ -1,0 +1,6 @@
+# Art. 11B Assurés bénéficiaires de prestations complémentaires familiales
+1 En application de l'article 22, alinéa 8, de la loi, les bénéficiaires de prestations complémentaires familiales ont droit à un subside correspondant aux subsides partiels tels que définis par l'article 22, alinéas 1 à 3, de la loi, pour les assurés du groupe 1.
+2 La part de l'excédent de dépenses, après déduction du subside défini selon l'alinéa 1, destinée à la couverture de la prime de l'assurance obligatoire des soins, est versée par le service des prestations complémentaires au bénéficiaire.
+3 Au cas où le bénéficiaire cesse d'avoir droit aux prestations complémentaires familiales en cours d'année, il continue à bénéficier, jusqu'à la fin de l'année en cours, des subsides visés à l'alinéa 1. En cas de justes motifs, le service peut, à la demande du service des prestations complémentaires, ne pas maintenir ce subside.
+Assurés bénéficiaires de prestations complémentaires familiales et d'un complément d'aide sociale
+4 Les personnes qui sont au bénéfice de prestations complémentaires familiales ainsi que d'un complément d'aide sociale de l'Hospice général obtiennent le subside en application de l'article 11C, alinéas 1 à 4, du présent règlement.

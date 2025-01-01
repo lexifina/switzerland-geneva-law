@@ -1,0 +1,6 @@
+# Art. 11A Assurés bénéficiaires de prestations complémentaires à l'AVS/AI
+1 En application des articles 22, alinéa 7, et 23A, alinéa 1, de la loi, le service des prestations complémentaires communique au service notamment le nom des assurés bénéficiaires de prestations complémentaires à l'AVS/AI, le montant du subside auquel ils ont droit, ainsi que le début et la fin de ce droit.
+2 En cas de variation de dépenses ou de revenus donnant lieu à un changement du montant du subside déterminé selon l'article 22, alinéa 7, de la loi, le subside est modifié ou supprimé.
+Assurés bénéficiaires de prestations complémentaires à l'AVS/AI et d'un complément d'aide sociale
+3 Les bénéficiaires de prestations complémentaires à l'AVS/AI ayant droit à un subside complet au sens de l'article 22, alinéa 7, première phrase, de la loi, et qui bénéficient d'un complément d'aide sociale de l'Hospice général restent au bénéfice du subside complet précité.
+4 Les bénéficiaires de prestations complémentaires à l'AVS/AI ayant droit à un subside partiel au sens de l'article 22, alinéa 7, deuxième phrase, de la loi, et qui bénéficient d'un complément d'aide sociale de l'Hospice général obtiennent un subside couvrant leur prime effective, à concurrence de la prime moyenne cantonale pour les prestations complémentaires.
