@@ -1,0 +1,6 @@
+# Art. 20D Echéance, délai de paiement et de remboursement
+1 Le solde indiqué dans le décompte final est échu à la date de notification du décompte.
+2 Il doit être payé ou remboursé dans un délai de 30 jours dès l’échéance.
+3 En cas de réclamation et de recours, le contribuable a l’obligation, dans le délai fixé à l’alinéa 2 du présent article, de s’acquitter de la somme non contestée, conformément à l’article 40 de la loi de procédure fiscale, du 4 octobre 2001.
+4 L’alinéa 3 du présent article s’applique par analogie en cas de solde du décompte final en faveur du contribuable.
+5 Lorsque le montant contesté est confirmé ou en cas de montant supplémentaire à rembourser par l’Etat ou à payer par le contribuable, le délai de remboursement ou de paiement est de 30 jours à compter de la notification du décompte final rectificatif.
