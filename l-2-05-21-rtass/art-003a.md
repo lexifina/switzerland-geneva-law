@@ -1,0 +1,2 @@
+# Art. 3A Taxe fédérale sur les eaux usées
+En application de l'article 60b de la loi fédérale sur la protection des eaux, du 24 janvier 1991, et des articles 51a et suivants de l’ordonnance fédérale sur la protection des eaux, du 28 octobre 1998, qui instaurent une taxe pour financer l'indemnisation des mesures destinées à éliminer les composés traces organiques, la taxe annuelle d'épuration est majorée de 10 centimes par m3 .
