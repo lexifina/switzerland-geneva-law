@@ -1,0 +1,4 @@
+# Art. 12A Remise
+1 La restitution entière ou partielle des prestations allouées indûment, mais reçues de bonne foi, ne peut être exigée si l'intéressé se trouve dans une situation difficile.
+2 La demande de remise doit être présentée par écrit. Elle doit être motivée, accompagnée des pièces utiles et déposée au plus tard 30 jours à compter de l'entrée en force de la décision en restitution.
+3 La remise fait l'objet d'une décision.

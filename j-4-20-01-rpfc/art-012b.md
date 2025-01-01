@@ -1,0 +1,4 @@
+# Art. 12B Situation difficile
+1 Est déterminant, pour apprécier s'il y a une situation difficile, le moment où la décision de restitution est exécutoire.
+2 Il y a une situation difficile lorsque les conditions de l'article 5 de l'ordonnance fédérale sur la partie générale du droit des assurances sociales, du 11 septembre 2002, sont réalisées.
+3 Les autorités auxquelles les prestations ont été versées en vertu de l'article 20 de la loi fédérale sur la partie générale du droit des assurances sociales, du 6 octobre 2000, ou des dispositions des lois spéciales ne peuvent invoquer le fait qu'elles seraient mises dans une situation difficile.
