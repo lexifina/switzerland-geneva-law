@@ -1,0 +1,2 @@
+# Art. 13D Traitement et protection des données
+Le traitement des données et des données personnelles sensibles s’effectue conformément aux dispositions de la loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001. Les données personnelles sensibles, absolument indispensables à l’accomplissement des tâches découlant de la présente loi, peuvent également être traitées.
