@@ -1,0 +1,4 @@
+# Art. 16A Amortissements
+1 Les amortissements des actifs justifiés par l’usage commercial sont autorisés, à condition qu’ils soient comptabilisés ou, en cas de tenue d’une comptabilité simplifiée en vertu de l’article 957, alinéa 2, du code des obligations, qu’ils apparaissent dans un plan spécial d’amortissements.
+2 En général, les amortissements sont calculés sur la base de la valeur effective des différents éléments de fortune ou doivent être répartis en fonction de la durée probable d’utilisation de chacun de ces éléments.
+3 Les amortissements opérés sur des actifs qui ont été réévalués afin de compenser des pertes ne sont admis que si les réévaluations étaient autorisées par le droit commercial et que les pertes pouvaient être déduites conformément à l’article 19, alinéa 1, au moment de l’amortissement.
