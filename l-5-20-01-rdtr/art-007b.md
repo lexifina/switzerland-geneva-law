@@ -1,0 +1,2 @@
+# Art. 7B Demande de renseignements
+Lorsqu’il constate que des locaux à usage commercial, administratif, artisanal ou industriel précédemment affectés au logement sont vides, le département interpelle le propriétaire. Il attire son attention sur la teneur de l’article 15, alinéa 6, de la loi et l’invite, aux fins de respecter son droit d’être entendu, à indiquer par écrit dans les 15 jours les motifs et la date depuis laquelle les locaux en cause sont vides.

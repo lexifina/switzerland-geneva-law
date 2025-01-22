@@ -1,0 +1,2 @@
+# Art. 7C Sommation
+A l’expiration du délai fixé à l’article 7B, si le propriétaire ne donne pas suite à la demande de renseignements ou s’il n’apporte pas la preuve d’un motif légitime quant au maintien de locaux vides depuis plus de 24 mois, le département peut lui adresser une sommation, en l’invitant à relouer lesdits locaux vides dans un délai de 3 mois à un loyer correspondant à celui du marché.
