@@ -1,0 +1,4 @@
+# Art. 46A Régime de sécurité renforcée
+1 Le directeur de l'établissement ou le directeur général de l'office cantonal de la détention sont compétents pour ordonner le placement de la personne détenue en régime de sécurité renforcée lorsque le régime normal de la détention présente des risques, notamment pour ce qui concerne la sauvegarde de la sécurité collective, des autres personnes condamnées, du personnel de l'établissement ou de la personne détenue.
+2 La décision de placement en régime de sécurité renforcée peut être ordonnée pour une durée de 6 mois au maximum, en fonction de la nature et de la gravité des risques; elle peut être renouvelée aux mêmes conditions.
+3 Les personnes condamnées doivent être entendues, oralement ou par écrit, par un membre de la direction de l'établissement ou de la direction générale de l'office cantonal de la détention, avant un placement en régime de sécurité renforcée.
