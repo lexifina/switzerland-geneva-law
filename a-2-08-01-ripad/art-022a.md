@@ -1,0 +1,15 @@
+# Art. 22A Modalités de l'élection du préposé (art. 53, al. 3, de la loi)
+Appel à candidatures
+1 La chancellerie d’Etat fait paraître durant l'année qui précède l'échéance du mandat électif du préposé cantonal et du préposé adjoint un appel à candidatures en vue de repourvoir ces postes. Le délai de postulation est au moins d'un mois.
+2 L'appel à candidatures est diffusé simultanément dans le bulletin des places vacantes de l'Etat de Genève et dans la Feuille d'avis officielle. La chancellerie d’Etat peut prolonger ou renouveler l'appel à candidatures par toute voie utile si aucune candidature ne répondant aux exigences légales ne lui parvient dans le délai prescrit.
+3 Les titulaires des postes en fonction sont en parallèle interpellés formellement par écrit par le Conseil d'Etat sur leur souhait d'être candidat ou non à leur réélection et invités à postuler formellement à ces fins dans le même délai que celui prévu par l'appel à candidatures et selon les mêmes modalités.
+Comité de sélection
+4 Avant l'échéance du délai de postulation, le Conseil d'Etat désigne un comité de sélection ad hoc composé de 4 personnes, dont 2 nommées sur proposition du bureau du Grand Conseil.
+5 La chancellerie d’Etat procède à une première sélection des dossiers et soumet l'intégralité de ceux-ci ainsi que ses propositions d'auditions au comité de sélection.
+6 Le comité de sélection procède aux auditions qu'il estime nécessaires. Il peut solliciter des candidats tout éclaircissement complémentaire ainsi que la production de toute pièce utile.
+7 A l'issue des auditions, le comité de sélection dresse un tableau récapitulatif de l'ensemble des candidatures répondant aux exigences légales et parvenues dans les délais; après en avoir délibéré, il dresse une liste des dossiers pour lesquels une audition a eu lieu, puis procède pour chaque poste à un classement des candidatures en lice en indiquant les critères pertinents retenus par le comité de sélection. En cas de divergence, le comité de sélection vote. Le classement est arrêté à la majorité.
+8 Sur la base du classement opéré en application de l'alinéa 7, le comité de sélection propose au Conseil d'Etat une candidature pour chacun des 2 postes au concours, en lui fournissant le tableau récapitulatif des candidatures retenues pour le classement final ainsi que leurs dossiers.
+Proposition de candidats au Grand Conseil
+9 Le Conseil d'Etat arrête, après en avoir délibéré, son choix quant aux personnes à proposer au Grand Conseil pour l'élection aux postes de préposé cantonal et de préposé adjoint en retenant une seule candidature pour chacun des postes.
+10 Il communique sa proposition à la présidence du Grand Conseil dans un délai suffisant afin de permettre l'élection du préposé cantonal et du préposé adjoint au moins 3 mois avant l'échéance du mandat à repourvoir.
+11 L'absence d'élection dans le délai prescrit à l'alinéa 10 pour l'un ou l'autre poste à repourvoir n'a pas pour effet de prolonger d'office la fin du mandat électif correspondant en cours ni de retarder d'autant le début du nouveau.
