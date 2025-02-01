@@ -1,0 +1,2 @@
+# Art. 9B Prise en compte du revenu
+Sont pris en considération, dans le revenu déterminant défini à l'article 31C, alinéa 1, lettre a, de la loi, le revenu déterminant du titulaire du bail additionné à celui des autres personnes majeures occupant le logement, dont à déduire une somme de 10 000 francs pour la première personne, de 7 500 francs pour la deuxième personne et de 5 000 francs par personne dès la troisième personne occupant le logement.

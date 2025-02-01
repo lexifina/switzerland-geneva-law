@@ -1,0 +1,4 @@
+# Art. 20G Non-paiement du loyer
+1 En cas de non-paiement du loyer, le service compétent peut, sur demande écrite et dûment motivée du bailleur, verser à ce dernier la subvention personnalisée qui est portée en déduction du loyer dû par le locataire. Il informe le locataire de sa décision.
+2 Le bailleur doit joindre à sa requête tous les justificatifs attestant le non-paiement du loyer, notamment copie de la mise en demeure et de la réquisition de poursuite.
+3 Si le locataire forme réclamation contre la décision du service compétent, le versement de la subvention personnalisée est alors suspendu jusqu’à droit jugé.
