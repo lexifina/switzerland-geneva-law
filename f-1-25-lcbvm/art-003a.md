@@ -1,0 +1,4 @@
+# Art. 3A Droits de la personne concernée
+1 A l’égard des données personnelles la concernant qui sont contenues dans les dossiers et fichiers de police, toute personne a le droit d’accès et les autres prétentions prévus par la loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001.
+2 Les droits et prétentions visés à l’alinéa 1 peuvent être limités, suspendus ou refusés si un intérêt prépondérant public ou privé l’exige, en particulier l’exécution d’une peine, la prévention efficace des crimes et délits ou la sauvegarde d’intérêts légitimes de tiers.
+3 Lorsque le requérant entend exercer des droits ou prétentions visés à l’alinéa 1 à l’égard de données personnelles communiquées à la police par des autorités de poursuite ou des organes de police d’autres cantons ou par la Confédération, le commandant de la police peut transmettre sa requête pour décision à ces autorités ou organes.
