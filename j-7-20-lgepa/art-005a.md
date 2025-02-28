@@ -1,0 +1,3 @@
+# Art. 5A Commission consultative
+1 Le département institue une commission consultative en matière d’établissements médico-sociaux (ci-après : la commission) sous la présidence de l’office cantonal de la santé.
+2 Le département détermine par voie réglementaire la composition et les tâches de la commission. Celle-ci mène notamment une réflexion continue au sujet de l’évolution du secteur médico-social, de la planification des besoins, de la définition des standards de construction et d’équipement, de la qualification des unités de soins spécifiques, des critères de définition de la méthode relative au calcul du prix de pension et propose des orientations pour assurer une prise en charge globale de qualité.
