@@ -1,0 +1,3 @@
+# Art. 14A Fixation des taux de rendements des fonds propres admissibles
+1 Le Conseil d'Etat fixe, sur la base des recommandations émises par la commission consultative tripartite instituée à l'article 14B, le ou les taux de rendement des fonds propres admissibles dans les plans financiers pour les opérations de logement soumis à la loi générale sur les zones de développement, du 29 juin 1957, à la loi générale sur le logement et la protection des locataires, du 4 décembre 1977, ou à la loi pour la construction de logements d'utilité publique, du 24 mai 2007.
+2 Il publie son arrêté dans la Feuille d'avis officielle lequel est également inséré au recueil systématique de la législation genevoise.
