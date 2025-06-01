@@ -1,0 +1,3 @@
+# Art. 6A Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse (ISOS)
+1 L’avis du canton, requis conformément à l’article 5 de la loi fédérale sur la protection de la nature et du paysage, du 1er juillet 1966, est donné après consultation des communes, de la commission des monuments, de la nature et des sites et des associations d’importance cantonale concernées.
+2 L’Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse est pris en compte dans la planification, au sens de l’article 11 de l’ordonnance fédérale concernant l’Inventaire fédéral des sites construits à protéger en Suisse, du 13 novembre 2019.
