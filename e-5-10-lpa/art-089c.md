@@ -1,0 +1,5 @@
+# Art. 89C Suspension des délais
+Les délais en jours ou en mois fixés par la loi ou par l'autorité ne courent pas :
+a) du 7e jour avant Pâques au 7e jour après Pâques inclusivement;
+b) du 15 juillet au 15 août inclusivement;
+c) du 18 décembre au 2 janvier inclusivement.
