@@ -1,0 +1,5 @@
+# Art. 15B Candidatures
+1 Lorsque la parité spécifique de 40% des candidatures n’est pas atteinte, le département chargé de la surveillance de l’institution invite les institutions et entités visées à l’article 15, alinéa 3, ayant désigné une ou plusieurs personnes du sexe surreprésenté à se concerter et à proposer, dans un délai de 30 jours, des candidatures respectant les exigences de parité.
+2 Dans le cas où la parité voulue n’est pas atteinte à l’échéance du délai visé à l’alinéa 1, le département organise un tirage au sort visant à déterminer, parmi les institutions et entités ayant désigné une ou plusieurs personnes du sexe surreprésenté, celles qui seront chargées de présenter une ou plusieurs autres candidatures dans un nouveau délai de 30 jours.
+3 Lors du renouvellement complet de la législature, une institution ou une entité tirée au sort est exemptée des deux tirages au sort suivants.
+4 Dans le cas où la parité voulue n’est toujours pas atteinte à l’échéance du délai visé à l’alinéa 2, le Conseil d’Etat nomme lui-même une ou plusieurs personnes du sexe sous-représenté.
