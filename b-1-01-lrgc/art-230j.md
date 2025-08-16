@@ -1,0 +1,8 @@
+# Art. 230J Rapport de la commission d’enquête parlementaire
+1 Au terme de ses travaux, la commission d’enquête parlementaire établit un projet de rapport, qu’elle doit soumettre avant toute diffusion au Conseil d’Etat ainsi que, dans la mesure où elles seraient mises en cause, aux autres autorités et aux personnes concernées, en leur fixant un délai raisonnable pour se déterminer oralement ou par écrit.
+2 Après avoir pris connaissance de la détermination du Conseil d’Etat et, le cas échéant, des autres autorités et personnes concernées, la commission d’enquête parlementaire amende s’il y a lieu son projet de rapport, et adopte un rapport final à l’intention du Grand Conseil.
+3 La commission d’enquête parlementaire y rend compte de ses travaux conformément au cahier des charges, de la position du Conseil d’Etat, ainsi que, le cas échéant, des autres autorités et personnes concernées.
+4 En outre, le rapport de la commission d’enquête parlementaire fixe des objectifs qui consistent à :
+a) émettre des recommandations visant à résoudre les problèmes rencontrés et éviter que ceux-ci ne se reproduisent;
+b) signaler d’autres pistes de réflexion, d’analyse et tout autre fait digne d’intérêt.
+5 Le rapport final est déposé au plus tard 18 mois après l’adoption du cahier des charges par le Grand Conseil. Si la période de l’enquête se situe à cheval sur deux législatures, la commission d’enquête poursuit ses travaux après les élections avec une nouvelle composition qui doit intégrer, si possible, les anciens membres réélus. Dans ces conditions, un délai additionnel de 30 jours est ajouté.

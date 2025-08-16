@@ -1,0 +1,5 @@
+# Art. 230C Composition et attributions
+1 Dès le début de la législature, le Grand Conseil nomme une commission de l’enseignement supérieur composée de 15 membres.
+2 Cette commission examine les objets que le Grand Conseil décide de lui envoyer notamment dans le domaine de la formation de niveau universitaire et des hautes écoles en général, en particulier le projet de loi ratifiant la convention d’objectifs entre l’Etat et l’université et celui ratifiant le contrat de prestations entre l’Etat et la Haute école spécialisée de Suisse occidentale – Genève.
+3 Elle est consultée préalablement par le Conseil d’Etat dans le cadre des négociations de la convention d’objectifs entre l’Etat et l’université et du contrat de prestations entre l’Etat et la Haute école spécialisée de Suisse occidentale – Genève.
+4 Cette commission désigne parmi ses membres les 7 députés appelés à siéger au sein de la commission interparlementaire chargée du contrôle des Hautes écoles spécialisées de Suisse occidentale.
