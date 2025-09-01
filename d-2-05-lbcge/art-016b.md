@@ -1,0 +1,5 @@
+# Art. 16B Incompatibilités et liens d’intérêts
+1 Les membres du conseil d’administration, les membres de la direction générale et les membres de leur famille ayant un lien de parenté direct, tel que défini dans les statuts de la banque, ne peuvent pas, après leur entrée en fonction, bénéficier de nouveaux crédits de la banque, si ce n’est pour des crédits lombards ou hypothécaires affectés à leur logement personnel et ratifiés par le conseil d’administration.
+2 Le conseil d’administration établit et tient à jour un registre des liens d’intérêts des membres du conseil d’administration et de la direction générale.
+3 Les statuts de la banque déterminent également les règles applicables à l’octroi de crédits aux membres des organes de la banque cités à l’alinéa 2 et aux personnes ainsi qu’aux organismes entretenant des liens d’intérêts avec ceux-ci. Les conditions d’octroi de ces crédits ne peuvent en aucun cas différer des conditions usuelles appliquées par la banque. Leur octroi est soumis à la ratification du conseil d'administration.
+4 Pour le surplus, la charte éthique peut prévoir d’autres conditions d’incompatibilités.

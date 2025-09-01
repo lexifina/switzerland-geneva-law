@@ -1,0 +1,2 @@
+# Art. 13A Election des membres du conseil d’administration représentant les actionnaires autres que les collectivités publiques
+Lors de l’élection des membres du conseil d’administration représentant les actionnaires autres que les collectivités publiques, ces dernières n’ont pas le droit d’exercer le droit de vote afférent aux actions qu’elles sont tenues de détenir conformément à la présente loi et aux statuts.

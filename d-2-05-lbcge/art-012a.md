@@ -1,0 +1,16 @@
+# Art. 12A Qualifications et composition du conseil d'administration
+1 Le conseil d'administration comprend des membres aux compétences spécifiques tant dans les domaines bancaires, économique que juridique. Sa composition doit refléter, dans la mesure du possible, les différentes tendances de la vie économique et sociale du canton. Les membres doivent exercer leur mandat de manière indépendante et ne pas avoir de conflits d'intérêts dans cette activité.
+2 Le conseil d’administration se réunit aussi souvent que l’exige la bonne marche des affaires, mais au moins 10 fois dans l’année. Ses membres doivent pouvoir consulter les dossiers relatifs aux points portés à l’ordre du jour dans un délai fixé par le règlement de ce conseil, mais au plus tard 24 heures avant l’ouverture de la séance.
+3 Le conseil d’administration se compose de 11 membres et comprend :
+a) 8 membres délégués par les collectivités publiques, dont 5 par le canton et 3 par les communes; parmi les membres délégués par les communes, 2 le sont par la Ville de Genève et 1 par les autres communes;
+b) 3 membres représentant les actionnaires autres que les collectivités publiques.
+4 Le Conseil d’Etat désigne la présidente ou le président parmi les membres du conseil d’administration. Le cahier des charges de la présidente ou du président est établi par le règlement d’organisation et de gestion de la banque.
+5 Le mandat d’un membre du conseil d’administration est de 4 ans. Un membre peut être nommé pour une durée de 12 ans au maximum. En cas d’entrée en fonction en cours de période administrative, la durée des mandats partiels qui en découle est cumulée à concurrence de ce maximum.
+6 Le mandat de membre du conseil d’administration prend fin au plus tard le jour de l’assemblée générale qui suit la date à laquelle la personne atteint l’âge de 73 ans révolus.
+7 Les membres du conseil d’administration ne peuvent exercer une charge à plein temps au sein d’un exécutif cantonal ou communal; ils ne peuvent appartenir à la direction, à la gestion opérationnelle ou à l’organe de révision d’une autre banque. Ils peuvent toutefois être membres du conseil d’administration d’une autre banque, pour autant que les champs d’activité géographique et sectoriel n’entrent pas en concurrence directe avec la banque et qu’ils disposent de la disponibilité suffisante pour exercer leur mandat. Les statuts règlent pour le surplus le nombre maximal d’activités que peuvent exercer les membres du conseil d’administration dans des fonctions similaires au sein d’autres entreprises poursuivant un but économique, conformément à l’article 626, alinéa 2, chiffre 1, du code des obligations.
+8 Pour pouvoir être nommé, respectivement élu au conseil d'administration, le candidat doit remplir les conditions suivantes :
+a) être majeur;
+b) jouir de la capacité de discernement;
+c) disposer des compétences susceptibles de contribuer effectivement au bon fonctionnement de la banque;
+d) n'être l'objet d'aucune inscription au casier judiciaire relative à une condamnation à une peine privative de liberté ou à une peine pécuniaire de plus de 180 jours-amende.
+9 Les candidats fournissent tout document utile au Conseil d'Etat, respectivement au conseil d'administration, afin de permettre la vérification des conditions de nomination ou d'élection.

@@ -1,0 +1,4 @@
+# Art. 14B Comité de nomination et de rémunération
+1 Le comité de nomination et de rémunération prévu par l’article 12, alinéa 7, se compose d’au moins 3 membres du conseil d’administration. Ses attributions sont fixées par les statuts.
+2 Le canton et l’ensemble des communes genevoises – soit pour ces dernières la Ville de Genève, après consultation de l’Association des communes genevoises – y nomment chacun un membre parmi les membres du conseil d’administration qu’ils ont respectivement désignés. L’assemblée générale élit un membre parmi les membres du conseil d’administration représentant les actionnaires autres que les collectivités publiques. Tout éventuel membre supplémentaire est nommé par le canton parmi les membres du conseil qu’il a nommés. Les articles 13 et 13A sont pour le surplus applicables par analogie.
+3 La durée du mandat d’un membre du comité de nomination et de rémunération correspond à celle de son mandat au conseil d’administration.
