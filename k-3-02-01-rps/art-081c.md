@@ -1,0 +1,2 @@
+# Art. 81C Contrôle
+Les institutions de santé, les professionnelles ou professionnels de la santé responsables du domaine d’activité concerné ou les entités requérantes doivent tenir à jour un registre nominatif des auxiliaires de soins chargés d’actes de soins délégués et du ou de la responsable de leur supervision. Ce registre, ainsi que le concept de délégation, doivent être à disposition des autorités compétentes lors d'inspections.
