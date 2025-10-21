@@ -1,0 +1,2 @@
+# Art. 33D Epreuve d'aptitude et entretien de vérification des compétences professionnelles
+La commission d'examens mentionnée à l'article 33A, alinéa 2, est également compétente pour faire passer l’épreuve d’aptitude et l’entretien de vérification des compétences professionnelles des avocats des Etats membres de l’Union européenne ou de l’Association européenne de libre-échange désirant être inscrits au registre cantonal.
