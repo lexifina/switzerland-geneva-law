@@ -1,0 +1,4 @@
+# Art. 108A Edification et exploitation de garages collectifs
+1 L’édification et l’exploitation de garages collectifs, en élévation ou en excavation, sont autorisées si une telle réalisation est conforme aux exigences de la stratégie multimodale à long terme, prévue dans la loi sur la mobilité, du 23 septembre 2016, et s’il n’en résulte pas d’inconvénients graves pour l’environnement, le voisinage ou la circulation. Elles doivent en outre ne pas nuire au bon fonctionnement des transports publics.
+2 Le département peut demander au requérant de produire un rapport d’impact établissant que le projet répond aux exigences précitées.
+3 L’édification d’un garage collectif en excavation peut être imposée par le département à l’occasion de la construction d’un immeuble d’habitation ou d’activités professionnelles, notamment s’il en résulte une amélioration sensible de l’environnement ou de la circulation.
