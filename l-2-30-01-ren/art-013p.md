@@ -1,0 +1,13 @@
+# Art. 13P Réseaux thermiques structurants et raccordement
+Raccordement et fourniture de l'énergie
+1 Le point de raccordement au réseau se situe dans la sous-station du bâtiment raccordé et permet de distinguer les installations appartenant au réseau thermique structurant de celles appartenant à la personne propriétaire du bâtiment.
+2 L'obligation de raccordement visée à l'article 22, alinéa 6, de la loi ne s'applique pas aux bâtiments dont la sous-station présente une puissance thermique nominale inférieure à 50 kW.
+3 Le raccordement à un réseau thermique structurant est formalisé par la signature de l'offre de raccordement avec les Services industriels de Genève, pour le raccordement et la fourniture d’énergie thermique. Le bâtiment est considéré comme étant raccordé à un réseau thermique structurant, d’un point de vue administratif, dès la mise en service d’une installation provisoire ou définitive.
+4 Les prescriptions des articles 12I et 12J sont respectées.
+5 Au plus tard 30 jours avant le début des travaux de raccordement de l’installation provisoire ou définitive, la personne propriétaire remet au département une déclaration attestant la conformité de l'installation aux prescriptions applicables et indiquant le taux d'énergie renouvelable et de récupération fournie par les réseaux thermiques structurants. La procédure d'autorisation de construire prévue par la loi sur les constructions et les installations diverses, du 14 avril 1988, est réservée.
+6 La déclaration de conformité visée à l'alinéa 5 du présent article est mise à jour lorsque le bâtiment raccordé fait l'objet de travaux impliquant une adaptation de ses besoins thermiques, notamment en cas de rénovation énergétique ou de surélévation du bâtiment. Elle est jointe au dossier d'autorisation de construire.
+Reprise et rétribution de l'énergie
+7 Les Services industriels de Genève reprennent l'énergie thermique non fossile mise à disposition par des producteurs tiers dont les bâtiments sont raccordés ou raccordables aux réseaux thermiques structurants.
+8 L'énergie thermique est reprise et rétribuée par les Services industriels de Genève à des conditions permettant sa valorisation et dans le respect des conditions techniques de l'article 22 de la loi.
+9 La demande de reprise est adressée aux Services industriels de Genève et doit notamment contenir toutes les informations utiles, en particulier l'origine de l'énergie produite, sa quantité et son coût de production, ainsi que l'ensemble des éléments techniques liés aux modalités de reprise.
+10 Les producteurs tiers ne peuvent en aucun cas fournir et revendre eux-mêmes à des tiers l’énergie qu’ils produisent et qui est injectée dans les réseaux thermiques structurants.

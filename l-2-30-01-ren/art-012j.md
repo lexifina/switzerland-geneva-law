@@ -1,0 +1,14 @@
+# Art. 12J Prescriptions en matière de climatisation, de froid de procédé et de froid commercial
+Prescriptions en matière de climatisation pour des installations présentant un haut degré d'efficacité exergétique
+1 En matière de climatisation, les normes SIA 180 édition 2014, SIA 382/1 édition 2014, SIA 382/2 édition 2025, SIA 384/4 édition 2025 et SIA 387/4 édition 2023 sont respectées.
+2 Les installations de climatisation d'une puissance frigorifique supérieure à 20 kW sont équipées d'un dispositif de comptage de l'énergie électrique consommée. Les équipements auxiliaires de telles installations sont également munis d'un même dispositif de comptage de l'énergie électrique consommée. Les relevés de ces données sont tenus à la disposition du département.
+3 Les mesures architecturales prévues par les normes SIA 180 édition 2014 et SIA 380/1 édition 2016, ainsi que les mesures techniques applicables, sont prises prioritairement au recours à une installation de climatisation.
+4 La solution technique retenue doit limiter la multiplication des installations et limiter le besoin en puissance et en énergie, notamment par la dérive de la température de consigne intérieure durant l'été pour les installations de climatisation de confort.
+5 La puissance frigorifique est calculée au plus juste selon les besoins. L'installation éventuelle de toute puissance supplémentaire à la puissance strictement nécessaire doit être dûment justifiée.
+6 L'installation doit être conçue de manière à ce que son coefficient d'efficacité frigorifique, à charge partielle, soit supérieur à son coefficient d'efficacité frigorifique à pleine charge selon les valeurs prévues par la norme SIA 382/1 édition 2014.
+7 Des mesures d'étanchéité à l'air comprenant la localisation des fuites sont effectuées dans tout bâtiment neuf et climatisé. Un rapport est rédigé selon les modalités prévues par la norme SIA 180 édition 2014 et remis au département avant la mise en exploitation.
+Prescriptions en matière de froid de procédé et de froid commercial
+8 En matière de froid de procédé et de froid commercial, la norme SN EN 378 et le feuillet technique SUVA 66139 sont respectés.
+9 Les installations de froid de procédé et de froid commercial doivent être munies d'un dispositif de comptage de l'énergie électrique consommée.
+10 Les rejets de chaleur des installations de froid de procédé sont valorisés pour le chauffage et la préparation de l'eau chaude sanitaire du bâtiment.
+11 Sont réservées notamment les dispositions de l'ordonnance fédérale sur la réduction des risques liés à l'utilisation de substances, de préparations et d'objets particulièrement dangereux, du 18 mai 2005, celles du règlement sur la protection contre le bruit et les vibrations, du 12 février 2003, et celles du règlement sur la protection de l'air, du 22 février 2012.

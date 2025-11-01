@@ -1,0 +1,10 @@
+# Art. 13O Installations productrices de chaleur alimentées en combustibles d'origine renouvelable
+1 La mise en place, le remplacement ou la transformation d'une installation productrice de chaleur alimentée en combustibles d'origine renouvelable est soumis à autorisation énergétique au sens de l'article 13D, sur préavis du service de l’air, du bruit et des rayonnements non ionisants :
+a) dès une puissance thermique nominale de 1 MW;
+b) dès une puissance thermique nominale de 70 kW pour les combustibles visés par le Plan de mesures OPair.
+2 Par couverture raisonnable de la demande d'énergie au moyen de rejets de chaleur au sens de l'article 21, alinéa 4, lettre a, de la loi, on entend la présence de rejets de chaleur disponibles en quantité suffisante pour être exploités à des coûts non disproportionnés.
+3 Par meilleure technologie disponible au sens de l'article 21, alinéa 4, lettre b, de la loi, on entend celle qui permet le plus de limiter les émissions de polluants pour un même degré d'efficacité exergétique.
+4 Par haut degré d'efficacité exergétique au sens de l'article 21, alinéa 4, lettre b, de la loi, on entend la variante qui présente le meilleur coefficient exergétique pour un coût non disproportionné.
+5 Le département précise, à titre indicatif et de manière non exhaustive, quelles installations remplissent les exigences des alinéas 2 à 4.
+6 Lorsqu'une installation productrice de chaleur alimentée en combustibles d'origine renouvelable est soumise à autorisation, la personne requérante remet au département un justificatif selon lequel l'installation s'intègre dans une vision globale du ou des bâtiments qu'elle alimente et tient compte de l'évolution de l'ensemble des besoins thermiques de l'environnement bâti de manière à limiter au maximum les besoins en énergie, notamment en évitant la multiplication des installations.
+7 Sont réservées les dispositions d'autres règlements, notamment du règlement sur la protection de l'air, du 22 février 2012, et du règlement d'application de la loi sur le ramonage et les contrôles spécifiques des émanations de fumée, du 24 mars 1982.

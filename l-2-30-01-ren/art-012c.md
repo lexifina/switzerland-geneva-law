@@ -1,0 +1,11 @@
+# Art. 12C Standards de très haute performance énergétique
+Bâtiments neufs et extensions (THPE-2000 W)
+1 Sont considérés comme répondant à un standard de très haute performance énergétique les bâtiments neufs au bénéfice du label Minergie®A, Minergie®P-Eco ou de tout autre label équivalent.
+2 Sont certifiés de très haute performance énergétique les bâtiments neufs dont l'alimentation principale en chaleur provient d'énergies non fossiles et locales ou d'un réseau thermique à distance dont la part d'énergies non fossiles et locales est d'au moins 80%, et qui répondent à l'une des alternatives suivantes :
+a) le respect du 70% des valeurs limites des besoins d'énergie annuels pondérés pour le chauffage, la préparation de l'eau chaude sanitaire, la ventilation et le rafraîchissement dans les bâtiments à construire définies dans le MoPEC 2014, le respect des valeurs cibles de la norme SIA 380/1 édition 2016 pour les besoins de chaleur pour le chauffage et le respect des valeurs cibles relatives à la demande globale en énergie définies par la norme SIA 387/4 édition 2023 pour l'éclairage;
+b) l'obtention de la classe énergétique A/A selon le CECB Plus ou le cahier technique SIA 2031 édition 2016.
+Bâtiments rénovés
+3 Sont considérés comme répondant à un standard de très haute performance énergétique les bâtiments rénovés au bénéfice du label Minergie®A, Minergie®P ou de tout autre label équivalent.
+4 Sont certifiés de très haute performance énergétique les bâtiments rénovés dont l'alimentation principale en chaleur provient d'énergies non fossiles et locales ou d'un réseau thermique à distance dont la part d'énergies non fossiles et locales est d'au moins 80%, et qui répondent à l'une des alternatives suivantes :
+a) le respect des valeurs limites des besoins d'énergie annuels pondérés pour le chauffage, la préparation de l'eau chaude sanitaire, la ventilation et le rafraîchissement dans les bâtiments à construire définies dans le MoPEC 2014, le respect du 90% des valeurs limites de la norme SIA 380/1 édition 2016 pour les besoins de chaleur pour le chauffage et le respect des valeurs cibles relatives à la demande globale en énergie définies par la norme SIA 387/4 édition 2023 pour l'éclairage;
+b) l'obtention de la classe énergétique B/A selon le CECB Plus ou le cahier technique SIA 2031 édition 2016.

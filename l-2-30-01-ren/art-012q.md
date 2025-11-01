@@ -1,0 +1,8 @@
+# Art. 12Q Bâtiments et installations des collectivités publiques et des établissements et fondations de droit public, bâtiments réalisés par des tiers, en droit de superficie, sur des terrains appartenant à l'Etat ou à des entités publiques
+1 Le coût externe de l'énergie à intégrer dans le calcul de la rentabilité au sens de l'article 16, alinéa 3, de la loi est défini par la norme SIA 480.
+2 Les bâtiments visés par l'article 16, alinéa 4, de la loi font l'objet d'une certification énergétique au 31 décembre 2022 au plus tard. En sont exemptés les bâtiments qui ont fait l'objet, avant l'entrée en vigueur de la loi modifiant la loi sur l'énergie, du 7 mars 2010, d'une certification énergétique.
+3 La certification énergétique est effectuée par un certificateur agréé par le centre de certification du certificat énergétique cantonal des bâtiments créé par la Conférence des directeurs cantonaux de l'énergie.
+4 Les certifications énergétiques sont renouvelées tous les 10 ans.
+5 Par certification énergétique, on entend une certification établie selon les critères du cahier technique SIA 2031 ou ceux du centre de certification du certificat énergétique cantonal des bâtiments créé par la Conférence des directeurs cantonaux de l'énergie.
+6 L'Etat et les communes établissent tous les 4 ans un diagnostic en matière d'efficacité énergétique et de pollution lumineuse de leur parc d'installations d'éclairages et d'illuminations publics.
+7 Sur cette base, l'Etat et les communes élaborent un plan directeur lumière, lequel décrit les mesures à prendre visant à concevoir, maintenir et exploiter lesdites installations de manière exemplaire en termes d'utilisation rationnelle de l'énergie et de diminution des émissions lumineuses polluantes.

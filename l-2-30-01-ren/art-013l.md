@@ -1,0 +1,7 @@
+# Art. 13L Bonus conjoncturel à l'énergie
+1 Une demande de subvention peut être déposée tant dans le cadre d'une démolition que d'une transformation ou d'une rénovation au sens de la loi sur les démolitions, transformations et rénovations de maisons d'habitation (mesures de soutien en faveur des locataires et de l'emploi), du 25 janvier 1996 (ci-après : la loi sur les démolitions, transformations et rénovations de maisons d’habitation).
+2 La demande de subvention est adressée au département simultanément au dépôt de la requête en autorisation de construire.
+3 Le montant de la subvention équivaut en règle générale au montant capitalisé en fonction de la durée d'amortissement des travaux correspondant à la différence entre le montant que le requérant pourrait répercuter sur les loyers en raison des travaux d'amélioration énergétique selon l'article 15, alinéa 11, de la loi et celui qu'il peut effectivement répercuter en raison de la limitation prévue à l'article 15, alinéas 12 et 13, de la loi et aux articles 6, alinéa 3, et 9, alinéa 6, de la loi sur les démolitions, transformations et rénovations de maisons d’habitation.
+4 Le département statue sur préavis de la commission d’attribution.
+5 Aucune subvention ne peut être octroyée si le requérant n'a pas auparavant fait toutes les demandes de subvention à sa disposition, tant sur le plan fédéral que cantonal.
+6 Le montant de la subvention est payé après exécution des travaux énergétiques et pour autant qu'ils aient été réalisés conformément à l'autorisation de construire.

@@ -1,0 +1,6 @@
+# Art. 12G Prescriptions en matière d'aération et de ventilation
+1 En matière d'aération et de ventilation, les normes SIA 180 édition 2014, SIA 382/1 édition 2025, SIA 382/5 édition 2021 et SIA 382.715 édition 2017 sont respectées.
+2 Les installations de ventilation double-flux sont munies de récupérateurs d'énergie thermique.
+3 Les installations d'extraction d'air des locaux chauffés sont équipées d'un dispositif d'amenée d'air neuf contrôlé ainsi que d'un récupérateur d'énergie thermique ou d'un dispositif de valorisation de la chaleur de l'air repris lorsque le volume d'air extrait représente plus de 1 000 m3 /h et que leur temps d'exploitation est supérieur à 500 heures par an. Dans le cas de plusieurs installations d'extraction d'air distinctes mais sises dans un même immeuble, celles-ci sont considérées comme une seule installation.
+4 Sont exceptées de l'obligation visée à l'alinéa 3 les installations d'extraction d'air pour le procédé industriel lorsque l'air contient un aérosol, notamment les hottes aspirantes de cuisine.
+5 Un concept de ventilation établi selon les modalités définies par la norme SIA 180 édition 2014 est joint au dossier de requête en autorisation de construire.

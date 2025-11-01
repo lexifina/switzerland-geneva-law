@@ -1,0 +1,8 @@
+# Art. 12I Prescriptions en matière de chauffage
+1 En matière de dimensionnement, les installations de chauffage respectent la norme SIA 384/1.
+2 Les générateurs de chaleur sont équipés d'un dispositif de comptage de l'énergie consommée.
+3 Les systèmes d'émission de chaleur neufs ou mis à neuf sont dimensionnés et exploités de manière à ce que les températures de départ ne dépassent pas 50°C lorsque la température extérieure atteint la valeur servant au dimensionnement; pour les chauffages au sol, ce seuil est de 35°C. Sont dispensés le chauffage de halles au moyen de panneaux rayonnants, les systèmes de chauffage des serres et des constructions semblables, pour autant qu'elles réclament effectivement une température de départ plus élevée.
+4 Les locaux chauffés sont équipés de dispositifs permettant de fixer pour chacun d’eux la température ambiante indépendamment et de régler cette dernière automatiquement. Sont dispensés de ces exigences les locaux bénéficiant prioritairement d'un chauffage par le sol avec une température de départ de 30°C maximum.
+5 Dans les bâtiments neufs, les installations productrices de chaleur alimentées en combustibles fossiles utilisent la chaleur de condensation lorsque leur température de sécurité est inférieure à 110°C.
+6 Lors du renouvellement d'installations productrices de chaleur alimentées en combustibles fossiles, l'alinéa 5 est applicable dans le respect du principe de la proportionnalité.
+7 Sont réservées les dispositions du règlement sur la protection de l'air, du 22 février 2012, et celles du règlement d'application de la loi sur le ramonage et les contrôles spécifiques des émanations de fumée, du 24 mars 1982.

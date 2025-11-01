@@ -1,0 +1,4 @@
+# Art. 13D Principe
+1 Toute demande d’autorisation énergétique non soumise à autorisation de construire au sens de la loi sur les constructions et les installations diverses, du 14 avril 1988, doit être effectuée sur formule officielle et être adressée à l'office cantonal.
+2 En collaboration avec le département chargé des autorisations de construire, le département précise quels objets requièrent l'octroi d'une autorisation énergétique, sans nécessiter l'octroi d'une autorisation de construire.
+3 Lorsque l'autorisation énergétique est liée à une demande d'autorisation de construire, un préavis liant est établi par l’office cantonal à l'intention du département chargé des autorisations de construire. Lorsque tel n'est pas le cas, l'office cantonal notifie l'autorisation ou son refus par la voie d'une décision administrative.
