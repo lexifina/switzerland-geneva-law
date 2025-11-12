@@ -1,0 +1,5 @@
+# Art. 12A Mesures et contrôle des émissions – Installations de combustion alimentées au bois
+1 La mesure de la concentration des particules solides des installations stationnaires de combustion alimentées au bois d'une puissance inférieure ou égale à 70 kW est renouvelée lors du contrôle au sens de l'article 12, alinéa 3, lettre b, du présent règlement.
+2 Dans le cas où une installation nouvelle ou assainie alimentée au bois d’une puissance supérieure à 70 kW est susceptible d'entraîner des immissions locales excessives, le service de l'air, du bruit et des rayonnements non ionisants peut imposer des valeurs limites d'émission plus restrictives que celles prévues par l'annexe 3 de l'ordonnance fédérale.
+3 Quiconque détient une installation de combustion, alimentée au bois d'une puissance supérieure à 70 kW, doit faire effectuer un service de maintenance par une entreprise spécialisée au moins tous les 12 mois.
+4 Le rapport de maintenance visé à l'alinéa 3 doit être conservé au moins une année et être présenté sur demande au service de l'air, du bruit et des rayonnements non ionisants.
