@@ -1,0 +1,2 @@
+# Art. 9B Constitution de servitudes
+Avec l’accord du département du territoire, le département chargé des affaires communales est compétent pour approuver la constitution de servitudes sur le domaine public communal, lorsqu'il s'agit d'une situation visée par l'article 4, alinéa 2, lettre a ou b, de la loi sur le domaine public, du 24 juin 1961, et qu'une délibération du Conseil municipal y relative a été approuvée.
