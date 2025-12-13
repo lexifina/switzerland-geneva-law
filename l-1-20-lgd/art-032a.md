@@ -1,0 +1,2 @@
+# Art. 32A Propriété de l’usine des Cheneviers
+Les Services industriels de Genève (ci-après : Services industriels) sont propriétaires de l'usine d'incinération des ordures ménagères, du centre de traitement des déchets spéciaux situés aux Cheneviers, commune d'Aire-la-Ville (ci-après : usine des Cheneviers) et de la halle du Bois-de-Bay, à l'exception des terrains qui restent la propriété de l'Etat.
