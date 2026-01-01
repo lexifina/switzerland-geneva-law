@@ -1,0 +1,3 @@
+# Art. 79A Détournement de l’impôt à la source
+1 Celui qui, tenu de percevoir l’impôt à la source, détourne les montants perçus à son profit ou à celui d’un tiers sera puni d’une peine privative de liberté de 3 ans au plus ou d’une peine pécuniaire. Une peine avec sursis peut être assortie d’une amende de 10 000 francs au plus.
+2 En cas de dénonciation spontanée au sens des articles 69, alinéa 3, ou 74A, alinéa 1, il est renoncé à la poursuite pénale pour détournement de l’impôt à la source et pour les autres infractions commises dans le but de détourner des impôts à la source. Cette disposition s’applique également aux cas visés aux articles 71, alinéa 3, et 74A, alinéas 3 et 4.
