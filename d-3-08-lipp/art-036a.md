@@ -1,0 +1,2 @@
+# Art. 36A Gains de loterie
+Sont déduits des gains unitaires provenant des jeux d’argent non exonérés de l’impôt selon l’article 27, lettres l à n, 5% à titre de mise, mais au plus 5 000 francs. Sont déduites des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l’article 27, lettre l, les mises prélevées du compte en ligne du joueur au cours de l’année fiscale, mais au plus 25 000 francs.
