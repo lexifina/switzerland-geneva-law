@@ -1,0 +1,3 @@
+# Art. 11B Supplément à la part privilégiée
+1 Le taux de la part privilégiée de la commune de domicile, déterminé selon sa capacité financière (art. 11A du présent règlement), est augmenté de 5% si ses contribuables ont eu à verser à d’autres communes, où ils réalisent un revenu ou ont de la fortune, des impôts qui au total excèdent ceux qu’elle-même a perçus à ce titre d’un montant supérieur à 10% du total des impôts personnes physiques qu’elle a encaissé au cours du dernier exercice connu, et pour autant que le taux de ses centimes additionnels ait été supérieur au taux moyen pondéré des centimes de toutes les communes.
+2 Le taux de la part privilégiée est augmenté de 10% si cet excédent a été supérieur à 25% dudit total.
