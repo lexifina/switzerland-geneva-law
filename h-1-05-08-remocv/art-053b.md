@@ -1,0 +1,3 @@
+# Art. 53B Réclamation – Recours
+1 A l'exclusion des décisions fondées sur l'article 48 qui sont définitives et celles qui sont fondées sur les articles 22, 23, 34 et 35 qui doivent faire l'objet d'un recours auprès du Tribunal administratif de première instance dans le délai imparti dans la décision, les décisions prises en application du présent règlement peuvent faire l'objet d'une réclamation écrite auprès du service notificateur dans les 30 jours.
+2 Les décisions sur réclamation peuvent faire l'objet d'un recours auprès du Tribunal administratif de première instance dans les 30 jours à compter de la notification de la décision attaquée.

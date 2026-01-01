@@ -1,0 +1,3 @@
+# Art. 53A Modalité de perception
+1 Les émoluments et frais décidés en application du présent règlement sont payables au comptant ou peuvent faire l’objet d’une facture et sont alors exigibles à 30 jours. Lors de l’envoi d’un rappel, un supplément de 10 francs est perçu.
+2 Les factures, décomptes ou autres documents comptables, les rappels d’échéance adressés aux intéressés avec sommation de payer, y compris les enregistrements y relatifs sur des supports de données ou d’image, sont assimilés à un jugement exécutoire conformément à l’article 80 de la loi fédérale sur la poursuite pour dettes et la faillite, du 11 avril 1889.
