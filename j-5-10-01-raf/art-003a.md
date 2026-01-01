@@ -1,0 +1,2 @@
+# Art. 3A Indexation (art. 8, al. 6, de la loi)
+Le Conseil d'Etat examine chaque année, en novembre, si les montants mentionnés à l'article 8, alinéas 1 à 3, de la loi doivent être adaptés au renchérissement pour le 1er janvier de l'année suivante. Il indexe ces montants, par arrêté, à condition que l'indice genevois des prix à la consommation du mois de juillet de l'année en cours ait augmenté d'au moins 5 points depuis la date à laquelle les montants ont été fixés pour la dernière fois. Les montants indexés sont arrondis au franc supérieur.
