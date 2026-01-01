@@ -1,0 +1,3 @@
+# Art. 437A Réclamation – Recours
+1 Le contribuable peut adresser au service notificateur une réclamation écrite contre la décision de taxation, dans les 30 jours qui suivent sa notification.
+2 Le contribuable peut s’opposer à la décision sur réclamation du service notificateur en s’adressant, dans les 30 jours à compter de la notification de la décision attaquée, au Tribunal administratif de première instance.
