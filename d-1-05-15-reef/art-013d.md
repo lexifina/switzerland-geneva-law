@@ -1,0 +1,7 @@
+# Art. 13D Libéralités de tiers affectées
+1 On entend par libéralités de tiers au sens du présent article les dispositions à titre gratuit effectuées par des tiers auxquelles sont attachées des charges quant à leur affectation et qui ne sont pas soumises à l'exigence d'une base légale. Elles peuvent consister en apports en espèce ou en nature.
+2 Le bénéficiaire des libéralités de tiers peut être soit l'Etat de Genève, soit, par analogie, une entité soumise au présent règlement.
+3 Si aucune durée n'est spécifiée dans l'acte de disposition, la durée de l'existence d'une charge liée à une libéralité est fixée à 75 ans, pour autant que, passé ce délai, il existe des raisons objectives pour décider de ne plus exécuter la charge.
+4 Les libéralités dont seuls les produits font l'objet d'une affectation peuvent voir leur capital entamé lorsque les dépenses engendrées ne sont plus couvertes.
+5 Les libéralités effectuées sous la forme d'un bien mobilier ou immobilier peuvent être évaluées à la juste valeur directement par les fonds propres. Les réévaluations peuvent être effectuées au plus une fois tous les 5 ans.
+6 Les libéralités de tiers affectées dont le bénéficiaire est l'Etat sont gérées au bilan sans passage par les comptes de résultat ou d'investissement, à concurrence de la part qui ne concerne pas le financement d’une prestation faisant partie de l’arborescence des prestations de l'Etat.
