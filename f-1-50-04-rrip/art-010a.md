@@ -1,0 +1,2 @@
+# Art. 10A Rapport quotidien
+Un rapport sur les entrées, sorties et transferts des détenus est adressé chaque jour au département chargé de la sécurité (ci-après : département), au directeur général de l'office cantonal de la détention, au directeur du service de la réinsertion et du suivi pénal, au commandant de la police, au directeur général de l'office cantonal de la population et des migrations et au Ministère public.
