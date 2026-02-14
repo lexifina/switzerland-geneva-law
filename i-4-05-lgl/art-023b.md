@@ -1,0 +1,5 @@
+# Art. 23B Catégories d’immeubles
+1 Le Conseil d’Etat autorise, pour les immeubles de la catégorie 4, une subvention personnalisée au logement aux locataires respectant les conditions fixées à l’article 30, pour une durée ne pouvant excéder 25 ans, à compter de la mise en exploitation de l’immeuble.
+2 Cette subvention personnalisée s’élève au maximum à 1 700 francs la pièce par an, pendant une période de 20 ans à compter de la mise en exploitation de l’immeuble. Ce montant maximum est ensuite réduit chaque année de 100 francs par pièce, de la 21e à la 25e année. Dès la 26e année, la subvention personnalisée est supprimée.
+3 Le cumul entre la subvention personnalisée au logement et l’allocation de logement est exclu.
+4 Le cumul entre la subvention personnalisée et les prestations complémentaires fédérales et cantonales à l’assurance-vieillesse, survivants et invalidité est exclu. La même exclusion de cumul s’applique entre la subvention personnalisée et les prestations transitoires pour les chômeurs âgés.

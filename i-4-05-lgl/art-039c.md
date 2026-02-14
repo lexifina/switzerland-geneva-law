@@ -1,0 +1,5 @@
+# Art. 39C Obligations du locataire
+1 Le locataire s’engage à informer, sans délai, le service compétent de toute notification de modification de son loyer. A défaut, il perd le droit à l’adaptation de l’allocation accordée.
+2 En cas de majoration de loyer et si le service compétent estime le nouveau loyer abusif au sens des articles 269 et suivants du code des obligations, il peut requérir le locataire de contester cette majoration. Si le locataire ne donne pas suite à cette requête, il perd le droit à l’adaptation de l’allocation accordée et l’Etat procède, dès la période d’application suivante, à une nouvelle étude d’agrément du logement.
+Obligations d’informer du bailleur
+3 L’avis de fixation du loyer initial et l’avis de majoration de loyer prévus par les articles 270, alinéa 2, et 269d, alinéa 1 et alinéa 2, du code des obligations mentionnent le droit du locataire à obtenir une allocation de logement aux conditions fixées par la loi en s’adressant à l’autorité compétente. Ces avis font également mention de l’alinéa 2 ci-dessus.

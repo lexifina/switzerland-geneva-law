@@ -1,0 +1,5 @@
+# Art. 39A Principe
+1 Si le loyer d’un immeuble admis au bénéfice de la présente loi constitue pour le locataire une charge manifestement trop lourde, eu égard à son revenu et à sa fortune, et si un échange avec un logement moins onéreux ne peut se réaliser sans inconvénients majeurs, ce locataire peut être mis au bénéfice d’une allocation de logement.
+2 Le locataire d’un immeuble non soumis à la présente loi peut également être mis au bénéfice d’une allocation de logement dans les mêmes conditions, pour autant que le logement qu’il occupe réponde aux normes fixées à l’article 39B.
+3 Le Conseil d’Etat détermine les conditions auxquelles le locataire a droit à une allocation, ainsi que le calcul de celle-ci.
+4 Le cumul entre l’allocation de logement et les prestations complémentaires fédérales et cantonales à l’assurance-vieillesse, survivants et invalidité est exclu. La même exclusion de cumul s’applique entre l’allocation de logement et les prestations transitoires pour les chômeurs âgés.
