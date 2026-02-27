@@ -1,0 +1,3 @@
+# Art. 44A Compensation financière
+1 L'autorité compétente évalue régulièrement la mise en place de la formation accordée aux bénéficiaires des emplois de solidarité.
+2 Lorsque le bénéficiaire d'un emploi de solidarité reprend une autre activité salariée sur le marché ordinaire, et pour autant que l'encadrement et la formation accordée aient été adéquats, l'autorité compétente accorde à l'institution partenaire une compensation financière équivalente à 2 mois de contribution au salaire qui doit être utilisée pour la formation d'un nouveau collaborateur en emploi de solidarité recruté suite au départ du précédent. La compensation financière est versée au plus tôt à la fin du troisième mois qui suit la reprise d'une activité salariée.
