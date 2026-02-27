@@ -1,0 +1,3 @@
+# Art. 6F Formation qualifiante et certifiante
+1 En complément à l’article 66a de la loi fédérale, le canton de Genève peut octroyer aux chômeurs au bénéfice des indemnités fédérales la possibilité de suivre une formation professionnelle qualifiante et certifiante lorsqu’il s’avère que celle-ci leur facilitera un retour sur le marché de l’emploi.
+2 Pour autant qu’elles émargent à l’aide sociale pendant la durée de la formation prévue par le plan de réinsertion, mais au maximum durant 4 ans, les personnes concernées touchent une allocation de formation dont le montant est fixé selon les règles figurant à l’article 90a de l’ordonnance sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité, du 31 août 1983.

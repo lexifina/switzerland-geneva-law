@@ -1,0 +1,6 @@
+# Art. 14A Collaboration à l’établissement des faits et certificat médical
+1 L’assuré qui fait valoir son droit aux prestations est tenu de fournir gratuitement tous les renseignements nécessaires pour établir ce droit et déterminer les prestations dues.
+2 Il est notamment tenu d’autoriser dans des cas particuliers toutes les personnes ou institutions, notamment les employeurs, les médecins, les assurances et organes officiels, à fournir des renseignements, pour autant que ceux-ci soient nécessaires pour établir le droit aux prestations. Les renseignements de nature médicale ne peuvent être transmis qu’aux médecins conseil.
+3 Il doit apporter la preuve de son incapacité de travail en produisant un certificat médical à l’autorité compétente. Celle-ci peut en tout temps ordonner un examen médical par un médecin-conseil, aux frais du fonds de compensation visé à l’article 21A de la loi.
+4 La production tardive, et sans motif valable, du certificat médical entraîne la perte du droit aux prestations pour la période considérée.
+5 Si l’assuré refuse de collaborer dans la mesure prévue aux alinéas 1 à 2, l’autorité compétente peut se prononcer en l’état du dossier. Au préalable, elle doit avoir adressé à l’assuré une mise en demeure écrite l’avertissant des conséquences.

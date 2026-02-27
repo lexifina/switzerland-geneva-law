@@ -1,0 +1,5 @@
+# Art. 45F Organisation
+1 Le département de l’économie, de l’emploi et de l’énergie (ci-après : département) organise la mise à disposition de ces emplois auprès d’institutions privées ou associatives, à but non lucratif, poursuivant des objectifs d’intérêt collectif et déployant des activités sur le marché complémentaire de l’emploi. Ces emplois peuvent également être mis en place au sein de collectivités publiques ou d’institutions de droit public pour autant qu’ils servent au développement de prestations nouvelles en faveur de la population et n’entrent pas dans le cadre de leurs activités ordinaires.
+2 Les projets retenus doivent répondre à un besoin social et dégager des moyens financiers propres qui permettent de couvrir tout ou partie de leurs coûts.
+3 Dans le choix des activités retenues, le département veille à éviter toute concurrence avec les entreprises commerciales genevoises, en particulier celles régies par des conventions collectives de travail.
+4 Le département demande le préavis du Conseil de surveillance du marché de l’emploi sur les mandats attribués, les projets et les activités retenus.

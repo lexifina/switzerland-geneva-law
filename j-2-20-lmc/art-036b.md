@@ -1,0 +1,4 @@
+# Art. 36B Révocation et restitution
+1 La décision relative à l’allocation de retour en emploi est révoquée notamment si, en cours de mesure, l’employeur ne remplit plus les conditions prévues à l’article 32, lettres e à g, ou s’il apparaît qu’il ne les remplissait pas d’emblée. L’employeur est tenu de restituer à l’Etat la participation au salaire reçue.
+2 La décision relative à l’allocation de retour en emploi est révoquée si, après la période d’essai, l’employeur notifie la résiliation du contrat de travail avant la fin de la mesure ou dans les 3 mois qui suivent. L’employeur est tenu de restituer à l’Etat la participation au salaire reçue. Sont réservés les cas de résiliation pour des motifs sérieux et justifiés.
+3 La décision relative à l’allocation de retour en emploi est révoquée si le chômeur ne remplit plus ou ne remplissait pas d’emblée les conditions prévues à l’article 31.
