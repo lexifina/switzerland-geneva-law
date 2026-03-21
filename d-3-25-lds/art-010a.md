@@ -1,0 +1,6 @@
+# Art. 10A Exception
+1 Les immeubles et droits immobiliers ruraux sont estimés à leur valeur de rendement au jour du décès pour autant que l’héritier ou les héritiers continuent à les exploiter ou à les faire exploiter à des fins exclusivement agricoles durant dix ans, au moins, dès la date du décès.
+2 Si, dans cette période, l’héritier ou les héritiers cessent partiellement ou totalement l’exploitation, sauf pour cause de décès, l’administration perçoit les droits de succession tels qu’ils auraient été dus si les immeubles et droits immobiliers, ainsi désaffectés de leur vocation agricole, avaient été estimés à leur valeur vénale lors de la succession. La reprise est calculée sur la différence entre la valeur de rendement retenue pour la perception des droits de succession et la valeur vénale qui doit être déclarée, pour mémoire, au jour du décès.
+3 Le Conseil d’Etat fixe le mode d’estimation de la valeur de rendement en fonction des dispositions fédérales en la matière.
+4 Une mention au registre foncier est prise par l’administration lorsque la valeur de rendement est retenue pour la taxation.
+5 L’estimation fiscale de l’administration des contributions publiques est communiquée, à titre indicatif, à l’administration de l’enregistrement.

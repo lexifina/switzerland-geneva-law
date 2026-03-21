@@ -1,0 +1,5 @@
+# Art. 6A Exonération de certains bénéficiaires
+1 Sont exemptes de tous droits les transmissions et attributions de biens au sens de l'article 1, alinéa 2, en faveur :
+a) du conjoint survivant;
+b) des parents en ligne directe; l'enfant adopté au sens du code civil suisse a le statut d'un enfant de l'adoptant, même si l'adoption n'est prononcée qu'après le décès de celui-ci; l'enfant mineur placé en vue d'une future adoption peut bénéficier, sur demande, du même statut que l'enfant adopté s'il est établi par une attestation du Tribunal de protection de l’adulte et de l’enfant que le placement était effectivement fait en vue d'adoption future au sens du code civil suisse et conformément à la procédure prévue par les dispositions d'application.
+2 L'alinéa 1 n'est pas applicable lorsque, selon l'une ou l'autre des 3 dernières décisions de taxation définitives au jour du décès, le défunt était au bénéfice d'une imposition d'après la dépense au sens de l'article 14 de la loi sur l’imposition des personnes physiques, du 27 septembre 2009.
