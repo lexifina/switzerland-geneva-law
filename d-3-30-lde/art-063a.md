@@ -1,0 +1,6 @@
+# Art. 63A Exceptions
+Immeubles ruraux
+1 La valeur déterminante est la valeur de rendement si les biens sont affectés à une exploitation agricole, pour autant que le bénéficiaire continue à les exploiter ou à les faire exploiter à des fins exclusivement agricoles durant dix ans, au moins, dès le partage successoral, le changement ou la liquidation du régime matrimonial.
+2 Si, dans cette période, le bénéficiaire cesse partiellement ou totalement l’exploitation, sauf pour cause de décès, l’administration perçoit les droits d’enregistrement tels qu’ils auraient été dus si les biens, ainsi désaffectés de leur vocation agricole, avaient été estimés à leur valeur vénale lors du partage successoral, du changement ou de la liquidation du régime matrimonial. La reprise est calculée sur la différence entre la valeur de rendement retenue pour la perception des droits d’enregistrement et la valeur vénale qui doit être déclarée, pour mémoire, au jour du partage successoral, du changement ou de la liquidation du régime matrimonial.
+Actions de sociétés anonymes immobilières
+3 Les règles prévues à l’article 11 de la loi sur les droits de succession sont applicables à l’estimation des actions de sociétés anonymes immobilières.

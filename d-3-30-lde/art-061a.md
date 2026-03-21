@@ -1,0 +1,3 @@
+# Art. 61A Restructurations
+1 Il n'est perçu aucun droit prévu au présent titre en cas de restructuration en franchise d’impôts au sens des articles 20, alinéa 1, de la loi sur l’imposition des personnes physiques, du 27 septembre 2009, et 24, alinéas 3 et 3quater de la loi fédérale sur l’harmonisation des impôts directs des cantons et des communes, du 14 décembre 1990.
+2 En cas de non-respect du délai de blocage prévu par les lois mentionnées à l'alinéa précédent, les droits d’enregistrement sont perçus après coup. Le droit de procéder à la reprise des droits se prescrit par 5 ans à compter de la date du non-respect du délai de blocage.

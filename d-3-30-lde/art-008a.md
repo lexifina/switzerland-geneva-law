@@ -1,0 +1,6 @@
+# Art. 8A Acquisition de son logement
+1 En cas de transfert qui a pour objet la propriété d’un immeuble destiné à servir de résidence principale à l’acquéreur, les droits d’enregistrement sur l’acte de vente sont réduits de 15 000 francs pour les opérations n’excédant pas 1 million de francs. Ces montants sont indexés annuellement à l’indice genevois de la construction.
+2 Les droits d’enregistrement sur les actes hypothécaires, y compris les centimes additionnels, sont réduits de moitié pour les opérations n’excédant pas 1 million de francs au sens de l’alinéa 1.
+3 Le bénéficiaire de la réduction doit, dans tous les cas, 2 ans au maximum après l’enregistrement de l’acte d’acquisition, remettre à l’administration la preuve de l’affectation de l’immeuble à sa résidence principale. Il doit, en outre, dès ce moment, occuper ce dernier, conformément à l’alinéa 1, durant une période continue de 3 ans. A défaut, le solde non perçu des droits est immédiatement exigible. Fait exception le cas du décès du bénéficiaire.
+4 En cas d’aliénation de l’immeuble, le débiteur des droits au sens de l’article 161, alinéa 1, est responsable du paiement de la reprise des droits.
+5 Le Conseil d’Etat fixe dans un règlement les modalités permettant la vérification de l’occupation de l’immeuble par son propriétaire et, le cas échéant, le recouvrement de la reprise des droits.
