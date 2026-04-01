@@ -1,0 +1,3 @@
+# Art. 92A Droits et obligations
+1 Les droits et obligations de l’Etat de Genève et de l’encaveur sont régis, outre par les dispositions du présent règlement, par une convention écrite conclue entre les parties, l’Etat de Genève étant à cet effet représenté par l'office cantonal.
+2 L’encaveur demeure en tout temps tenu de fournir, sur demande de l'office cantonal et jusqu’à extinction de la garantie, toutes indications utiles permettant d’apprécier l’évolution de sa situation financière, notamment par la présentation d’états financiers, d'éléments fiscaux ou d'attestations de l’office cantonal des poursuites ou de l’office cantonal des faillites actualisés.
