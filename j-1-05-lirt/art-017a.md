@@ -1,0 +1,5 @@
+# Art. 17A Compétences de l'office
+1 L'office traite, en collaboration avec les autres autorités et organismes compétents en matière de main-d'œuvre étrangère, les demandes d'autorisation de travail en application de la loi sur les étrangers, de l'ordonnance relative à l’admission, au séjour et à l’exercice d’une activité lucrative, du 24 octobre 2007, et de l'ordonnance fédérale sur l'introduction progressive de la libre circulation des personnes entre, d'une part, la Confédération suisse et, d'autre part, l’Union européenne et ses Etats membres, ainsi qu'entre les Etats membres de l'Association européenne de libre-échange, du 22 mai 2002.
+2 Le Conseil d'Etat précise les compétences respectives des différentes autorités concernées.
+3 Les compétences de la commission tripartite pour l'économie, dépendant du conseil de surveillance du marché de l'emploi, instituée par la loi sur le service de l'emploi et la location de services, du 18 septembre 1992, sont réservées.
+4 L'office prononce les sanctions de l'article 122, alinéas 1 et 2, de la loi sur les étrangers.

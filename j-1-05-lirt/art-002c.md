@@ -1,0 +1,4 @@
+# Art. 2C Collaboration entre les autorités et avec les commissions paritaires
+1 L’office et l’inspection paritaire coordonnent leurs activités et collaborent entre eux, en tant que cela est nécessaire à l’accomplissement de leurs tâches et missions. Ils s’informent des contrôles qu’ils effectuent et se transmettent au surplus les documents et renseignements nécessaires.
+2 Lorsque l’inspection paritaire transmet un dossier à l’office pour décision en application de l’article 2B, alinéa 6, l’office communique à l’inspection paritaire une copie de la décision rendue.
+3 L’inspection paritaire collabore avec les commissions paritaires. Lorsqu’un contrôle des conditions de travail est effectué par une commission paritaire, l’inspection paritaire ne peut intervenir qu’à titre subsidiaire. L’inspection paritaire peut effectuer des contrôles sur demande des commissions paritaires.

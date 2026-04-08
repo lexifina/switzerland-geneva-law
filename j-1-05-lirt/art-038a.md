@@ -1,0 +1,2 @@
+# Art. 38A Obligation d'annonce
+Conformément à l'accord entre la Confédération suisse, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, sur la libre circulation des personnes, du 21 juin 1999, et à l'accord amendant la Convention du 4 janvier 1960 instituant l'Association européenne de libre-échange, du 21 juin 2001, les prestataires de services indépendants qui souhaitent fournir une prestation de service en Suisse d'une durée inférieure à 90 jours de travail effectif par année civile doivent s'annoncer auprès de l'office.

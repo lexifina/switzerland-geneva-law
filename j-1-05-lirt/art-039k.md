@@ -1,0 +1,6 @@
+# Art. 39K Montant du salaire minimum
+1 Le salaire minimum est de 23 francs par heure.
+2 Pour le secteur économique visé par l'article 2, alinéa 1, lettre d, de la loi fédérale sur le travail dans l'industrie, l'artisanat et le commerce (LTr), du 13 mars 1964, le Conseil d'Etat peut, sur proposition du Conseil de surveillance du marché de l'emploi, fixer un salaire minimum dérogeant à l'alinéa 1 dans le respect de l'article 1, alinéa 4.
+3 Pour les activités professionnelles occasionnelles exercées par des étudiants immatriculés dans un établissement de formation reconnu, durant les vacances scolaires et universitaires pour une durée maximale de 60 jours par année civile, le salaire minimum prévu aux alinéas 1 et 2 est fixé à 75% de sa valeur.
+4 Chaque année, le salaire minimum est indexé sur la base de l'indice des prix à la consommation du mois d'août, par rapport à l'indice en vigueur le 1er janvier 2018. Le salaire minimum prévu à l'alinéa 1 n'est indexé qu'en cas d'augmentation de l'indice des prix à la consommation.
+5 Par salaire, il faut entendre le salaire déterminant au sens de la législation en matière d'assurance-vieillesse et survivants, à l'exclusion d'éventuelles indemnités payées pour jours de vacances et pour jours fériés.
