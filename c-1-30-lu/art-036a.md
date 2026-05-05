@@ -1,0 +1,2 @@
+# Art. 36A Loi sur l’organisation des institutions de droit public
+Les articles 15 à 17, 19 à 21, 23 à 25, 27 et 28 de la loi sur l’organisation des institutions de droit public, du 22 septembre 2017, sont applicables au conseil d’orientation stratégique, au comité d’éthique et de déontologie et au comité d’audit, à l’exception de l’article 21, alinéa 2, qui n’est pas applicable au conseil d’orientation stratégique.
