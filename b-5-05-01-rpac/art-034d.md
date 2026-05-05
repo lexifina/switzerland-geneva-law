@@ -1,0 +1,5 @@
+# Art. 34D Congé parental sans traitement
+1 Un congé parental sans traitement, de 2 ans au maximum, par naissance, adoption ou accueil d'un ou de plusieurs enfants, non fractionnable, peut être accordé au membre du personnel bénéficiant d'un congé octroyé selon les articles 34, 34A, 34B et 34C. Il se termine au plus tard la veille de l'entrée en scolarité de l'enfant.
+2 La ou le bénéficiaire du congé parental sans traitement peut poursuivre une activité à temps partiel d’entente avec la supérieure ou le supérieur hiérarchique.
+3 La demande de congé parental sans traitement doit être présentée 3 mois à l'avance, par la voie hiérarchique, sauf circonstance particulière justifiée.
+4 A l’expiration du congé parental sans traitement, la réintégration dans la fonction occupée précédemment est garantie; l’augmentation ordinaire du traitement par le jeu des annuités est garantie de la même manière que pour les personnes en activité. Le droit aux vacances est réduit au prorata dès un mois de congé parental sans traitement.

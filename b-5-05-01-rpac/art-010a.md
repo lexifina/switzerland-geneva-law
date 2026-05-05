@@ -1,0 +1,2 @@
+# Art. 10A Nationalité suisse
+Les fonctionnaires de police, au sens de l'article 26 de la loi sur la police, du 26 octobre 1957, et les membres du personnel qui sont chargés de procéder à une enquête sur la personnalité du candidat à la naturalisation genevoise et sur celle des membres de sa famille, selon l’article 14 de la loi sur la nationalité genevoise, du 13 mars 1992, doivent posséder la nationalité suisse.
