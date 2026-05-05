@@ -1,0 +1,7 @@
+# Art. 2A Principes généraux
+1 Les principes généraux suivants s’appliquent dans l’administration cantonale, les services centraux et les greffes du pouvoir judiciaire, les établissements publics médicaux ainsi qu’à l’Hospice général :
+a) créer les conditions qui permettent aux collaboratrices et aux collaborateurs de travailler dans un climat de respect et de tolérance, exempt de toute discrimination directe ou indirecte fondée sur une caractéristique personnelle, notamment l’origine, l’âge, le sexe, l’orientation affective ou sexuelle, l’identité de genre, l’expression de genre, l’intersexuation, les incapacités, les particularités physiques, la situation sociale ou familiale, les convictions religieuses ou politiques;
+b) veiller à réaliser l’égalité entre femmes et hommes dans les faits;
+c) utiliser et développer le potentiel des collaboratrices et des collaborateurs en fonction de leurs aptitudes et de leurs qualifications;
+d) prendre en considération, dans la mesure du possible et en tenant compte des impératifs des missions confiées aux services, les obligations familiales des collaboratrices et des collaborateurs en développant des moyens permettant de mieux concilier vie familiale et vie professionnelle.
+2 Les agents de l’Etat, soit ceux du canton, des communes et des personnes morales de droit public, observent une neutralité religieuse dans le cadre de leurs fonctions et, lorsqu’ils sont en contact avec le public, ils s’abstiennent de signaler leur appartenance religieuse par des propos ou des signes extérieurs.

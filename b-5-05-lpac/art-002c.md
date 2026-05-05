@@ -1,0 +1,5 @@
+# Art. 2C Groupe de confiance
+1 Le Conseil d’Etat instaure un groupe de confiance. Après consultation des organisations représentatives du personnel, le Conseil d’Etat désigne son responsable.
+2 Le groupe de confiance s’acquitte de ses tâches en toute indépendance. Il est rattaché administrativement à la chancellerie d’Etat.
+3 Le groupe de confiance est chargé de la mise sur pied et de l’application d’un dispositif de protection de la personnalité en application de l’article 2B. Il l’applique d’office pour le personnel visé à l’article 1, alinéa 1, lettres a à c, f et g, et alinéa 2, lettre a, et peut également le faire pour le personnel d’autres autorités ou institutions qui ont adhéré conventionnellement à son dispositif.
+4 Le groupe de confiance est également chargé de recevoir des signalements de lanceurs d’alerte, d’instruire les faits et de protéger les lanceurs d’alerte et les témoins, conformément à la loi sur la protection des lanceurs d’alerte au sein de l’Etat, du 29 janvier 2021.
