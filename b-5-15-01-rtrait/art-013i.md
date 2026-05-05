@@ -1,0 +1,5 @@
+# Art. 13I Vérification formelle de l’analyse de l’égalité des traitements
+1 La vérification formelle de l'analyse de l'égalité des traitements du personnel de l'Etat est placée sous la responsabilité de l’office du personnel.
+2 L'office du personnel charge une entreprise de révision agréée de la vérification de l'analyse au sens de l'article 13d, alinéa 1, lettre a, de la loi fédérale sur l'égalité entre femmes et hommes, du 24 mars 1995.
+3 L'entreprise qui dirige la révision vérifie que l'analyse de l'égalité des traitements, au sens de l'article 7, alinéa 2, de l'ordonnance fédérale sur la vérification de l'analyse de l'égalité des salaires, du 21 août 2019, a été effectuée correctement au plan formel et établit un rapport à l'intention de l'office du personnel dans un délai d'un an après que l'analyse a été effectuée.
+4 Le Conseil d'Etat diffuse à l'intention des membres du personnel de l'Etat et des partenaires sociaux les résultats détaillés de l'analyse de l'égalité des traitements et de sa vérification, puis procède à leur publication.

@@ -1,0 +1,2 @@
+# Art. 11C Rémunération complémentaire
+En application de l'article 9, alinéa 2, de la loi, le chef du département, agissant d'entente avec l'office du personnel, ou le conseil d'administration de l'établissement, peut allouer à des membres du personnel chargés, pour une période déterminée, de tâches supplémentaires ou exceptionnelles clairement identifiées une indemnité spéciale destinée à compenser le surcroît de temps et d'efforts consacrés à ces activités. Cette indemnité exclut la prise en considération d'heures supplémentaires ou toute autre forme de compensation.
