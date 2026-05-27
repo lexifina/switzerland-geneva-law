@@ -1,0 +1,7 @@
+# Art. 1B Autorité compétente
+1 La conseillère ou le conseiller d'Etat chargé du département de l’instruction publique, de la formation et de la jeunesse (ci-après : département) est l'autorité compétente pour la catégorie des fonctionnaires sous sa responsabilité.
+2 La direction générale concernée est l'autorité compétente pour les autres catégories de personnel sous sa responsabilité. L'engagement et l'augmentation du taux d'activité peuvent être soumis à l'accord de la secrétaire générale ou du secrétaire général par la conseillère ou le conseiller d'Etat chargé du département.
+3 Demeurent réservées :
+a) les compétences spécifiques prévues par le règlement;
+b) la décision de retrait du droit d'enseigner pour une durée limitée, conformément à l'article 12B de l'accord intercantonal sur la reconnaissance des diplômes de fin d'études, du 18 février 1993, de la compétence du Conseil d'Etat dans les cas où celui-ci prononce la révocation, et de celle de la conseillère ou du conseiller d'Etat chargé du département dans les autres cas.
+4 L'autorité compétente agit d'entente avec la direction des ressources humaines du département. En cas de divergences entre l'autorité de décision et la direction des ressources humaines du département, ou entre la conseillère ou le conseiller d'Etat chargé du département et l'office du personnel de l'Etat (ci-après : l’office du personnel), l'autorité supérieure tranche.
