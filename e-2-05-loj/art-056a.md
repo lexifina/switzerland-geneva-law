@@ -1,0 +1,5 @@
+# Art. 56A Contrôle interne et gestion des risques
+1 Le pouvoir judiciaire met en place, conformément aux dispositions de la loi sur la gestion administrative et financière de l’Etat, du 4 octobre 2013, un système de contrôle interne et de gestion des risques, destiné à donner à la commission de gestion et au Grand Conseil une assurance raisonnable sur la maîtrise des risques.
+2 Le pouvoir judiciaire met en place un système de contrôle interne adapté à sa mission et à sa structure, conformément aux dispositions de la loi sur la gestion administrative et financière de l’Etat, du 4 octobre 2013, et de ses dispositions d’exécution.
+3 Il se dote d’un système de gestion des risques adapté à sa mission, destiné à donner au Grand Conseil une assurance raisonnable sur la maîtrise des risques.
+4 Il applique par analogie les modalités de fonctionnement du système de contrôle interne et du système de gestion des risques arrêtés par le Conseil d’Etat pour l’administration cantonale. Il veille à la cohérence de son système de contrôle interne avec le système de contrôle interne transversal de l’administration cantonale.

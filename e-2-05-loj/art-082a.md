@@ -1,0 +1,6 @@
+# Art. 82A Procureurs extraordinaires
+1 Seules les personnes exerçant la fonction de procureur titulaire au sein du Ministère public d’un autre canton ou de la Confédération peuvent être élues en qualité de procureur extraordinaire.
+2 Lorsqu’un magistrat du Ministère public doit être entendu en tant que partie plaignante ou en qualité de prévenu d’un crime ou d’un délit, le procureur général ou un premier procureur informe sans délai le président du conseil supérieur de la magistrature. Celui‑ci désigne un procureur extraordinaire parmi ceux visés à l’article 76, lettre c, et lui attribue la procédure. La mise en œuvre d’actes d’instruction urgents est réservée.
+3 Lorsqu’il existe d’autres circonstances particulières, le procureur général ou un premier procureur peut demander au président du conseil supérieur de la magistrature qu’il désigne un procureur extraordinaire parmi ceux visés à l’article 76, lettre c, et lui attribue la procédure.
+4 Les procureurs extraordinaires n’appartiennent à aucune section du Ministère public et interviennent exclusivement dans les procédures qui leur sont attribuées conformément aux alinéas 2 et 3.
+5 Le président du conseil supérieur de la magistrature exerce à l’égard des procureurs extraordinaires les compétences visées à l’article 79, alinéa 2, lettres b et c.
