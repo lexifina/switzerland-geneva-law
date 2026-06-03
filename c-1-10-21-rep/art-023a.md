@@ -1,0 +1,2 @@
+# Art. 23A Fin de la scolarisation des élèves domiciliés hors canton
+Après avoir entendu les parents, la direction d'établissement scolaire prononce la fin de la scolarité dans l'enseignement régulier de l'élève domicilié hors canton qui nécessite des mesures de pédagogie spécialisée au sens de l'article 33 de la loi sur l'instruction publique, du 17 septembre 2015. Elle statue au terme d'une procédure d'évaluation standardisée et sur la base de la décision du service de la pédagogie spécialisée.
