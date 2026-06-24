@@ -1,0 +1,3 @@
+# Art. 1A Dissémination dans l'environnement
+1 L'office cantonal de l'agriculture et de la nature est l'autorité cantonale compétente au sens des articles 37, 41, 46, alinéa 4, 49, 51, 52 et 56, alinéa 2, de l'ordonnance fédérale sur l'utilisation d'organismes dans l'environnement, du 10 septembre 2008.
+2 Il assure le contrôle ultérieur au sens des articles 47 et 48 de l'ordonnance fédérale sur l'utilisation d'organismes dans l'environnement, du 10 septembre 2008, dans les cas où le service du pharmacien cantonal ou le service de la consommation et des affaires vétérinaires ne l’effectuent pas déjà en vertu d’autres prescriptions.
