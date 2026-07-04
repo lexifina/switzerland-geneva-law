@@ -1,0 +1,3 @@
+# Art. 15G
+1 Lorsque l’élaboration d’un plan localisé de quartier au sens de l’article 5, alinéa 1, a été engagée, à la suite de la délivrance d’une autorisation préalable de construire, aucun autre plan dont le périmètre couvrirait, en tout ou partie, celui du plan localisé de quartier ne peut être élaboré avant son adoption.
+2 Lorsqu’un plan localisé de quartier a été approuvé en application de l’article 5, il ne peut s’écouler moins de 5 ans entre la date de son adoption et la mise à l’enquête publique d’un projet de plan d’utilisation du sol dont le périmètre recouvrirait, en tout ou partie, celui du plan localisé de quartier.
