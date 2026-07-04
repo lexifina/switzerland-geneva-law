@@ -1,0 +1,3 @@
+# Art. 119C Elections tacites
+1 Si le nombre de candidatures pour un poste de juge suppléante ou juge suppléant, de procureure ou procureur extraordinaire ou de juge de la Cour d’appel du pouvoir judiciaire est inférieur ou égal au nombre de sièges à pourvoir pour chacune de ces fonctions dans une juridiction, les personnes candidates sont élues tacitement.
+2 Il en va de même si le nombre de candidatures pour un poste de juge assesseure ou juge assesseur est inférieur ou égal au nombre de sièges de juges assesseures ou juges assesseurs à pourvoir dans une juridiction par catégorie spécifique définie par la loi sur l’organisation judiciaire, du 26 septembre 2010, et par ses règlements d’application.

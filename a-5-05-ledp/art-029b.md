@@ -1,0 +1,2 @@
+# Art. 29B Transparence – Prise de position pour les votations
+Pour autant qu’il ne soit pas soumis aux obligations de l’article 29A, tout parti politique, association ou groupement qui dépose une prise de position lors d’une votation fédérale, cantonale ou communale soumet dans les 60 jours à l’autorité compétente les comptes relatifs à l’opération de vote concernée, l’attestation de conformité prévue à l’article 29E, alinéa 2, la liste complète de ses donateurs et, pour tous les dons de 5 000 francs ou plus, le montant des dons associés à chaque donateur.

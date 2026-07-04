@@ -1,0 +1,5 @@
+# Art. 29A Transparence – Dépôt de listes de candidatures pour les élections
+1 Tout parti politique représenté au Grand Conseil soumet chaque année à l’autorité compétente, le 30 juin au plus tard, ses comptes annuels, l’attestation de conformité prévue à l’article 29E, alinéa 2, la liste complète de ses donateurs et, pour tous les dons de 5 000 francs ou plus, le montant des dons associés à chaque donateur.
+2 Tout parti politique, association ou groupement, non représenté au Grand Conseil, qui dépose une liste de candidatures lors des élections cantonales soumet à l’autorité compétente, au plus tard le 30 juin de l’année suivant l’élection, ses comptes annuels, l’attestation de conformité prévue à l’article 29E, alinéa 2, la liste complète de ses donateurs et, pour tous les dons de 5 000 francs ou plus, le montant des dons associés à chaque donateur.
+3 L’alinéa 2 s’applique à tout parti politique, association ou groupement qui dépose une liste de candidatures lors des élections communales, dans les communes dépassant 10 000 habitants.
+4 Les alinéas 2 et 3 ne s’appliquent pas en cas d’élection tacite.

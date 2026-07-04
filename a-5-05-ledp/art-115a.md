@@ -1,0 +1,3 @@
+# Art. 115A Date
+1 L’élection générale des magistrates et magistrats du pouvoir judiciaire, à l’exception de celle des juges prud’hommes, des juges conciliatrices et juges conciliateurs et des juges conciliatrices-assesseures et juges conciliateurs-assesseurs du Tribunal des prud’hommes, a lieu au cours de la période allant du 1er mars au 31 mai.
+2 Les magistrates et magistrats du pouvoir judiciaire, à l’exception des juges prud’hommes, des juges conciliatrices et juges conciliateurs et des juges conciliatrices-assesseures et juges conciliateurs-assesseurs du Tribunal des prud’hommes, entrent en fonction le 1er juin.
