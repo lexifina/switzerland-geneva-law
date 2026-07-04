@@ -1,0 +1,7 @@
+# Art. 7B Commissions des écoParcs industriels
+1 Le Conseil d’Etat peut instituer des commissions chargées de la concertation entre les autorités concernées et les entreprises, ainsi que de l’étude de tous les projets touchant à l’utilisation et à l’animation des zones de développement industriel ou d’activités mixtes (ci-après : commissions). Le Conseil d’Etat peut conférer aux commissions la compétence de rendre des préavis à l’attention des autorités décisionnelles compétentes, notamment en matière d’autorisations de construire.
+2 Le règlement d’application de la présente loi définit la composition des commissions. Les commissions comportent, de manière équilibrée, des représentants des communes territorialement concernées, des entreprises implantées dans la zone, du canton et de la fondation.
+3 Le règlement d’application de la présente loi précise également les modes de désignation et de révocation des membres, la durée des mandats, les droits et obligations des membres, la présidence des commissions, la procédure de délibération, la publicité des séances et les modalités et obligations de rapports aux autorités intéressées.
+4 Sont en outre réservées les dispositions spécifiques des règlements directeurs au sens de l’article 3 de la présente loi.
+5 La fondation peut édicter des prescriptions détaillées sur le fonctionnement des commissions.
+6 Sous réserve d’accords avec les communes et les entreprises concernées, la fondation assume le support administratif et les coûts de fonctionnement des commissions.
