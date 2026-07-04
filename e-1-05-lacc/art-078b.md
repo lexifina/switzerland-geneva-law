@@ -1,0 +1,2 @@
+# Art. 78B Validation des mesures superprovisionnelles
+En cas de retrait du droit de déterminer le lieu de résidence de l’enfant, de retrait de sa garde de fait ou de suspension d’un droit à des relations personnelles, le Tribunal de protection rend, dans un délai de 30 jours dès le prononcé des mesures superprovisionnelles (art. 445, al. 2, CC), une décision sujette à recours, après avoir donné aux parties l’occasion de s’exprimer.
