@@ -1,0 +1,2 @@
+# Art. 21B Zones de décharges contrôlées pour matériaux inertes n’accueillant que des matériaux d’excavation non pollués
+Les zones de décharges contrôlées pour matériaux inertes accueillant exclusivement des matériaux d'excavation non pollués sont destinées au remblayage de certains périmètres fixés dans le plan directeur y relatif prévu par la loi sur la gestion des déchets, du 20 mai 1999. Leur contenu est fixé par l’article 30A, alinéa 7, de ladite loi.

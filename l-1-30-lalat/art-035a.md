@@ -1,0 +1,2 @@
+# Art. 35A Demandes d'indemnité
+Les demandes d'indemnité pour expropriation matérielle au sens de l'article 30F peuvent être adressées au Tribunal administratif de première instance, siégeant dans la composition prévue par l’article 36 de la loi sur l’expropriation pour cause d’utilité publique, du 10 juin 1933, dans un délai de 5 ans à dater de l'entrée en vigueur de la mesure d'aménagement considérée. Une transaction judiciaire peut intervenir pendant la procédure à tous les stades de celle-ci.

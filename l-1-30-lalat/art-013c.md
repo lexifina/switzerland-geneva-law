@@ -1,0 +1,5 @@
+# Art. 13C Zones réservées
+1 Lorsque la sauvegarde des buts et principes régissant l’aménagement du territoire l’exige, notamment lorsqu’une modification des limites de zones est envisagée, le Conseil d’Etat peut adopter, à titre provisoire et pour une durée de 5 ans au plus une zone réservée au sens de l’article 27 de la loi fédérale sur l’aménagement du territoire, du 22 juin 1979.
+2 La durée de 5 ans visée à l’alinéa 1 commence à courir dès l’adoption de la zone réservée sur le périmètre concerné. Lorsqu’il a été préalablement fait application de l’article 13B, elle est, pour la parcelle concernée, réduite de celle correspondant aux effets de cette mesure. Cette durée ne peut, au surplus, être matériellement prolongée par toute autre mesure conservatoire.
+3 Seule la publication dans la Feuille d’avis officielle de la décision d’adoption de la zone réservée permet de la porter à la connaissance du public par le biais d’une carte ou de tout autre moyen de publicité.
+4 Pour le surplus, la procédure est précisée par le règlement d’application de la présente loi.

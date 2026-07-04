@@ -1,0 +1,3 @@
+# Art. 30L Reconsidération
+1 Au cas où, postérieurement à la taxation au sens de l’article 30J, alinéa 1, l’un des éléments entrant dans le calcul de celle-ci subit une modification sensible et pour autant que le terrain en cause n’ait pas changé de propriétaire, le département chargé des finances peut, d’office ou à la demande de ce propriétaire, procéder à une reconsidération de la taxation.
+2 La reconsidération se prescrit par 5 ans à compter de la date de notification du bordereau de taxation au sens de l’article 30J, alinéa 1. La prescription ne court plus si, avant son échéance, le département chargé des finances a reconsidéré la taxation ou le propriétaire a déposé une demande en reconsidération.

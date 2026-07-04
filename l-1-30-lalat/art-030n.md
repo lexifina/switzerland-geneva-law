@@ -1,0 +1,4 @@
+# Art. 30N Recouvrement
+1 Les bordereaux relatifs au paiement des taxes, établis en application de l’article 30J, sont assimilés à des jugements exécutoires au sens de l’article 80 de la loi fédérale sur la poursuite pour dettes et la faillite, du 11 avril 1889. Le recouvrement est poursuivi à la requête du département chargé des finances, conformément aux dispositions de ladite loi.
+2 Les dispositions de l'article 86A de la loi générale sur les contributions publiques, du 9 novembre 1887, sont, le cas échéant, applicables au recouvrement de la taxe.
+3 Le paiement de la taxe prévue au présent titre constitue, le cas échéant, une impense déductible au sens de l'article 82, alinéa 8, de la loi générale sur les contributions publiques, du 9 novembre 1887, et son acquittement ne dispense pas l’aliénateur ou ses ayants cause de tous autres impôts prévus par cette loi.

@@ -1,0 +1,2 @@
+# Art. 12A Modification de zone en période de pénurie de logement
+En période de pénurie de logements, soit lorsque le taux de logements vacants est inférieur à 2%, et afin de favoriser la création de logements répondant aux besoins prépondérants de la population, le Conseil d’Etat ne peut proposer que des modifications de limites de zones soumises à la loi générale sur les zones de développement, du 29 juin 1957, à l’exception des périmètres qui ne sont pas destinés au logement.
