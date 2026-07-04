@@ -1,0 +1,10 @@
+# Art. 6A Initiative constitutionnelle
+1 Si le Grand Conseil n’adopte pas de contreprojet à une initiative constitutionnelle, le texte de celle-ci est publié suivi des précisions ci-après :
+a) le Grand Conseil, dans sa séance du ..., a pris position pour / contre cette initiative;
+b) cette initiative doit être soumise au vote du corps électoral;
+c) les titulaires des droits politiques qui l’acceptent doivent voter « oui », celles et ceux qui la rejettent doivent voter « non ».
+2 Si le Grand Conseil adopte un contreprojet, le texte de l’initiative et du contreprojet sont publiés suivis des précisions ci-après :
+a) le Grand Conseil, dans sa séance du ..., a refusé cette initiative et, dans sa séance du ..., a adopté un contreprojet;
+b) l’initiative et le contreprojet doivent être soumis au vote du corps électoral;
+c) pour chacun des textes, les titulaires des droits politiques qui l’acceptent doivent voter « oui », celles et ceux qui le rejettent doivent voter « non »; les titulaires des droits politiques indiquent ensuite leur préférence en répondant à une question subsidiaire.
+3 L’article 6B, alinéa 3, est applicable au contreprojet de rang législatif.
