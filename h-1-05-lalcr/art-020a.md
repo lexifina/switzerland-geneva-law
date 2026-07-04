@@ -1,0 +1,4 @@
+# Art. 20A Evaluation
+1 Les effets du mécanisme mis en place par l’article 8J, alinéas 2 à 4, de la présente loi sont évalués par le Conseil d’Etat au 1er trimestre 2030. L’évaluation porte sur l’amélioration effective des conditions de déplacement et de stationnement des bénéficiaires, l’impact sur la vitesse commerciale des transports publics et la fluidité du trafic.
+2 Le Conseil d’Etat présente au Grand Conseil un rapport communiquant les résultats de cette évaluation.
+3 En fonction des résultats de cette évaluation et afin de limiter les émissions de CO2, le Conseil d’Etat peut restreindre par voie réglementaire l’octroi de la vignette prévue par l’article 8J, alinéa 2, aux véhicules n’émettant pas de CO2. Cette restriction prend effet dans les 2 ans qui suivent le traitement du rapport par le Grand Conseil.

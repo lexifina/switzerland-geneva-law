@@ -1,0 +1,4 @@
+# Art. 7D Zones de parcage
+1 La réglementation locale du trafic peut prescrire des dispositions particulières concernant le parcage de véhicules des habitants d’un secteur ou de tout autre cercle déterminé d’usagers, selon des modalités que le Conseil d’Etat fixe par règlement.
+2 Une autorisation écrite est délivrée sous forme de macaron aux bénéficiaires potentiels qui la sollicitent contre paiement d’une taxe. Le montant de la taxe ne doit pas dépasser 240 francs pour les habitants. Le Conseil d’Etat adapte périodiquement ces montants à l’évolution de l’indice genevois des prix à la consommation. En fonction de la nature, de l’intensité et de la localisation de l’avantage conféré, le Conseil d’Etat peut édicter un tarif différencié allant de 120 francs à 480 francs pour une année.
+3 Le produit net des taxes est versé à la Fondation des parkings pour la construction et l’exploitation de parcs de stationnement destinés aux habitants et aux P + R.

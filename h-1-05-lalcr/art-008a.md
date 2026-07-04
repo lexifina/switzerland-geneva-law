@@ -1,0 +1,3 @@
+# Art. 8A Transport professionnel de personnes en situation de handicap
+1 Les véhicules sérigraphiés, affectés au transport professionnel de personnes en situation de handicap ou de personnes souffrant de pathologies graves invalidantes nécessitant une prise en charge médicale, au bénéfice d’une concession délivrée par le département, sont autorisés à utiliser les voies réservées aux bus munies du marquage TAXI, lorsqu’ils transportent effectivement une ou plusieurs personnes en situation de handicap ou souffrant de pathologies graves invalidantes nécessitant une prise en charge médicale.
+2 Le département fixe les conditions d’octroi de la concession et sa durée.

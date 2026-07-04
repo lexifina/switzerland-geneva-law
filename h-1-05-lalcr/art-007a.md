@@ -1,0 +1,4 @@
+# Art. 7A Plan d’actions du stationnement
+1 Le plan d’actions du stationnement a pour objectifs généraux l’organisation du stationnement à usage public pour une meilleure qualité de vie dans les espaces publics, le respect de l’environnement et la promotion de l’économie. Il vise à améliorer les possibilités de stationnement des habitants, à maîtriser le stationnement pendulaire et à garantir l’accessibilité aux services, aux commerces et aux activités de loisirs pour les visiteurs, les clients et le transport professionnel.
+2 Le plan d’actions recense l’offre à usage public, analyse la demande, évalue les besoins et contient des mesures pour y répondre. Le département assure et tient à jour le recensement de l’offre à usage public.
+3 On entend par offre à usage public l’offre en matière de stationnement public et privé ouvert au public.
