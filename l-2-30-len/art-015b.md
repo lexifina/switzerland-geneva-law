@@ -1,0 +1,15 @@
+# Art. 15B Installations fixes de chauffage électrique à résistance des bâtiments
+Chauffage
+1 Le raccordement au réseau public d'électricité d'une installation fixe de chauffage électrique à résistance neuve, modifiée ou qui renouvelle un chauffage électrique existant est soumis à autorisation exceptionnelle de l'autorité compétente.
+2 Le remplacement d'une installation fixe de chauffage électrique à résistance qui alimente un système de distribution à eau par un chauffage électrique fixe à résistance est interdit.
+3 Il est interdit d'utiliser une installation fixe de chauffage électrique à résistance en complément d'une installation principale de chauffage lorsque la température extérieure est supérieure ou égale à la température de dimensionnement fixée par les normes en vigueur.
+4 L’autorisation ne peut être délivrée que si le bâtiment intégrant l'installation raccordée ainsi que les installations de ce dernier satisfont aux prescriptions techniques fixées dans le règlement et si :
+a) l’usage d’un autre agent énergétique n’est pas adapté aux conditions locales ou exige un investissement disproportionné, ou
+b) l’installation et l’usage du chauffage électrique par résistance sont justifiés par des exigences de sécurité, ou
+c) l'installation et l’usage du chauffage électrique par résistance complètent une installation principale de chauffage lorsque la température extérieure est inférieure à la température de dimensionnement fixée par les normes en vigueur, ou
+d) l'installation et l’usage du chauffage électrique par résistance sont destinés à maintenir des locaux hors-gel lorsque l'absence prolongée des utilisateurs de ces locaux a pour conséquence que l'installation principale de chauffage ne peut pas remplir cette fonction.
+5 Le règlement peut prévoir des exceptions aux alinéas 1 et 3 pour des installations d'une puissance inférieure à un certain seuil ou en fonction de leur affectation.
+Production d'eau chaude sanitaire
+6 Dans les bâtiments neufs dont la consommation d'eau chaude sanitaire est importante, soit notamment les bâtiments d'habitation, le montage d'une installation électrique fixe à résistance de production d'eau chaude sanitaire respecte les prescriptions spécifiques à ce type d'installation fixées par le règlement dans les domaines régis par l'article 14, alinéa 1, de la présente loi.
+7 Dans les bâtiments existants dont la consommation d'eau chaude sanitaire est importante, soit notamment les bâtiments d'habitation, le renouvellement ou la modification d'une installation électrique fixe à résistance de production d'eau chaude sanitaire respectent les prescriptions spécifiques à ce type d'installation fixées par le règlement dans les domaines régis par l'article 14, alinéa 1, de la présente loi. Le règlement peut prévoir des exceptions ou des délais de mise en conformité.
+8 Le propriétaire d'une telle installation remet à l'autorité compétente avant le début des travaux une déclaration attestant sa conformité auxdites prescriptions.
