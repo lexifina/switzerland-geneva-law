@@ -1,0 +1,2 @@
+# Art. 5A Fin de la scolarisation des élèves – domicile hors canton
+Après avoir entendu les parents, la direction d'établissement scolaire prononce la fin de la scolarité dans l'enseignement régulier de l'élève domicilié hors canton qui nécessite des mesures de pédagogie spécialisée au sens de l'article 33 de la loi sur l'instruction publique. Elle statue au terme d'une procédure d'évaluation standardisée et sur la base de la décision du service de la pédagogie spécialisée.

@@ -1,0 +1,3 @@
+# Art. 46A Changement d'établissement pour des questions disciplinaires
+1 Pour des questions disciplinaires, la direction de l’établissement peut décider de placer un élève dans une autre classe, en cours d'année ou pour l'année scolaire suivante, après avoir entendu les parents ou l'élève majeur, lorsque le bon fonctionnement de la classe le commande.
+2 Pour des questions disciplinaires et sur demande de la direction de l’établissement, la direction générale de l'enseignement secondaire II peut décider, à titre exceptionnel, de placer un élève dans un autre établissement, en cours d'année ou pour l'année scolaire suivante, après avoir entendu les parents concernés ou l'élève majeur, lorsque le bon fonctionnement de l'établissement le commande.

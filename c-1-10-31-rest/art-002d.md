@@ -1,0 +1,2 @@
+# Art. 2D Infraction aux dispositions sur la formation obligatoire
+En cas d'infraction aux dispositions sur la formation obligatoire, un rapport d'infraction est adressé à la direction générale de l'enseignement secondaire II par la direction de l'école ou par une autre subdivision sur délégation de la direction générale de l’enseignement secondaire II, laquelle est compétente pour prononcer les amendes selon l'article 39 de la loi sur l'instruction publique.

@@ -1,0 +1,5 @@
+# Art. 18A Accueil temporaire des élèves en échange ou en séjour linguistique
+1 Sous réserve des principes fixés aux alinéas 2 à 4 du présent article, les modalités de l'accueil temporaire dans le cadre d'un échange ou d'un séjour linguistique sont régies par voie de directive.
+2 Les élèves accueillis temporairement dans un établissement de l'enseignement secondaire II pour une durée supérieure à 3 mois sont soumis au paiement des frais d'écolage prévus à l'article 3A du règlement relatif à l'admission dans l'enseignement secondaire II, du 14 avril 2021, s'ils ne remplissent pas les conditions de domicile prévu à l'article 3 dudit règlement.
+3 Sont exemptés des frais d'écolage les élèves accueillis dans le cadre d'échanges réciproques organisés entre cantons dans le cadre d'une convention intercantonale, par les familles ou par des organismes à but non lucratif.
+4 Les échanges non réciproques organisés par des organismes à but non lucratif peuvent également être exemptés du paiement des frais de scolarité, pour autant que lesdits organismes démontrent que le bilan des échanges non réciproques n'est pas défavorable au canton.
