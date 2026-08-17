@@ -1,0 +1,4 @@
+# Art. 16A Admission des élèves issus d’une 11e année d'une classe d'accueil du cycle d'orientation
+Les élèves issus d'une 11e année d'une classe d'accueil du cycle d'orientation peuvent être intégrés au 12e degré de l'école de culture générale, du collège de Genève ou de formation professionnelle initiale d'employée ou employé de commerce (certificat fédéral de capacité – CFC), après analyse du dossier par la direction générale de l'enseignement secondaire II, aux conditions suivantes :
+a) les élèves ont effectué des stages complets dans une 11e année, section littéraire et scientifique ou section langues vivantes et communication. Les stages sont considérés comme complets, si les élèves ont été intégrés dans toutes les disciplines de la section, hormis l'allemand;
+b) les enseignantes et enseignants de la classe d'accueil et des stages ont émis un préavis selon lequel les élèves ont un niveau scolaire similaire à celui des élèves de la section.

@@ -1,0 +1,3 @@
+# Art. 3A Frais d'écolage
+1 Les frais d'écolage pour les formations du degré secondaire II correspondent aux montants fixés par l'accord intercantonal sur les contributions dans le domaine de la formation professionnelle initiale (accord sur les écoles professionnelles), du 22 juin 2006, et la convention intercantonale réglant la fréquentation d'une école située dans un canton autre que celui de domicile, du 20 mai 2005.
+2 Les frais d'écolage pour les formations du degré tertiaire B correspondent au double des montants fixés par l'accord intercantonal sur les contributions dans le domaine des écoles supérieures, du 22 mars 2012.
