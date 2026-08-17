@@ -1,0 +1,4 @@
+# Art. 65B Absences aux leçons d’éducation physique
+1 Lorsque, pour des raisons de santé, un élève est dans l’incapacité de prendre part à la leçon d’éducation physique alors qu’il assiste aux autres cours, il doit, sauf indication contraire de la part de son enseignant d'éducation physique, se présenter au cours, et ce même s’il est au bénéfice d’un certificat médical.
+2 Lorsqu’une absence au cours d’éducation physique dure plus de 2 semaines, l’élève présente sans délai à son maître d’éducation physique un certificat médical qui précise si l'incapacité est totale ou partielle et le cas échéant les exercices adaptés à son état.
+3 Un certificat médical portant la mention « durée indéterminée » ou « jusqu'à nouvel avis » est valable au maximum pendant 1 mois. Le cas échéant, l'élève concerné doit présenter personnellement un nouveau certificat médical à son maître d'éducation physique.

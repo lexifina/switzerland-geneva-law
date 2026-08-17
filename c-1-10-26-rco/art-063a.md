@@ -1,0 +1,8 @@
+# Art. 63A Dispense du cours d’éducation physique
+1 La dispense du cours d'éducation physique peut être octroyée aux élèves pratiquant, à haute intensité physique, une discipline sportive, la danse ou les arts du cirque et participant régulièrement à des compétitions ou concours de niveau régional ou national qui impliquent une charge importante d'entraînement.
+2 Les critères permettant l'octroi d'une dispense du cours d'éducation physique sont définis par le département et publiés chaque année sur le site Internet de ce dernier.
+3 La demande de dispense du cours d’éducation physique doit être déposée par l’élève auprès du service écoles et sport, art, citoyenneté qui instruit et rend une décision. La dispense du cours d’éducation physique est octroyée pour une année scolaire et la demande doit être renouvelée chaque année.
+4 L'élève dispensé du cours d'éducation physique n’est pas soumis aux évaluations et cette discipline n’est pas prise en compte pour le calcul de sa promotion annuelle.
+5 Durant les heures de cours d’éducation physique desquelles il a été dispensé, l’élève est placé sous la responsabilité de ses parents.
+6 L'élève qui cesse sa pratique de haut niveau, ou la réduit de manière à ne plus remplir les critères visés à l’alinéa 2, doit en informer immédiatement le service écoles et sport, art, citoyenneté. La dispense est alors retirée et l'élève réintègre le cours d'éducation physique.
+7 En cas de violation des devoirs de l’élève durant les heures de cours d’éducation physique desquelles il a été dispensé, le service écoles et sport, art, citoyenneté peut retirer la dispense du cours d’éducation physique. L’élève réintègre alors le cours d’éducation physique.
