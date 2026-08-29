@@ -1,0 +1,3 @@
+# Art. 27A Echange d’informations
+1 Les médecins, les psychologues et tout autre intervenant thérapeutique agissant au profit d’une personne détenue avant jugement, soumise à une mesure de substitution à la détention ou exécutant une peine ou une mesure, d’une part, le département chargé de la sécurité, ses services, et ses établissements de détention avant jugement et ses établissements d’exécution des peines et mesures, d’autre part, se tiennent réciproquement et spontanément informés de tout élément nécessaire à l’accomplissement de leurs missions respectives.
+2 Le secret professionnel et la saisine de la commission instituée par l’article 12 sont réservés.

@@ -1,0 +1,2 @@
+# Art. 20A Promotion de la santé liée au sexe, à l’orientation affective et sexuelle et à l’identité de genre
+L’Etat met en place des mesures spécifiques pour la promotion de la santé en faveur des femmes, des personnes lesbiennes, gays, bi, transgenres et intersexes, en particulier les actions visant à améliorer l’information, l’accès aux prestations de santé, ainsi que la détection et la prise en charge des atteintes à la santé.

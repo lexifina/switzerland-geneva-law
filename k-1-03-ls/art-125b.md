@@ -1,0 +1,4 @@
+# Art. 125B Autorités compétentes pour le traitement des plaintes et des dénonciations
+1 La commission de surveillance est compétente pour traiter des plaintes et des dénonciations résultant d’une infraction à la présente loi ou à ses dispositions d’exécution dans les cas où l’infraction a été commise dans le cadre de soins prodigués à une personne déterminée par un professionnel de la santé ou une institution de santé. La procédure est dans tous les cas réglée par la loi sur la commission de surveillance des professions de la santé et des droits des patients, du 7 avril 2006.
+2 Le médecin cantonal et le pharmacien cantonal sont compétents pour traiter des autres plaintes et dénonciations résultant d’une infraction à la présente loi ou à ses dispositions d’exécution, en fonction de leur domaine de compétence.
+3 Les alinéas 1 et 2 s’appliquent par analogie aux affaires vétérinaires.
