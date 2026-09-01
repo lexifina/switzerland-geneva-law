@@ -1,0 +1,2 @@
+# Art. 6A Déclaration d’utilité publique
+L’édification de logements au sens des articles 4A ou 4B de la présente loi ou en zone de développement 4B est déclarée d’utilité publique au sens de l’article 3, alinéa 1, lettre b, de la loi sur l’expropriation pour cause d’utilité publique, du 10 juin 1933. La déclaration d’utilité publique s’applique uniquement à la levée des servitudes de restriction à bâtir.

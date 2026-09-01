@@ -1,0 +1,10 @@
+# Art. 2A Indices de densité et indices d’utilisation du sol
+1 L’indice de densité est le rapport entre la surface brute de plancher destinée aux logements et aux activités et la surface nette de terrain à bâtir, soit la surface totale du périmètre concerné, dont sont déduites les surfaces vouées à la circulation externe et au raccordement et celles vouées aux espaces et aux équipements publics d’une certaine importance, répondant au minimum aux besoins d’un quartier, par exemple une école, un mail ou un parc public. Cet indice sert à déterminer la densité des surfaces constructibles pour le logement et les activités.
+2 Un indice de densité minimal est applicable en zone de développement. Il est de :
+a) 2,5 en zone de développement 2;
+b) 1,8 en zone de développement 3;
+c) 1 en zone de développement 4A;
+d) 0,8 en zone de développement 4B.
+3 Les plans localisés de quartier ou les autorisations de construire délivrées en application de l’article 2, alinéa 2, doivent respecter cet indice de densité minimal. Ils peuvent toutefois s’en écarter si des raisons de qualité urbanistique ou architecturale le justifient, en particulier dans le cadre d’un plan directeur de quartier ou d’un concours au sens des lettres d et e de cette même disposition, ou si la protection du patrimoine ou un autre motif d’intérêt général l’impose.
+4 L’indice d’utilisation du sol est le rapport entre la surface brute de plancher destinée aux logements et aux activités et la surface totale des terrains, y compris les surfaces de circulation externe et de raccordement et les surfaces d’espace et d’équipements publics lorsqu’elles donnent des droits à bâtir. Cet indice est utilisé en particulier dans les plans localisés de quartiers ou les autorisations de construire délivrées en application de l’article 2, alinéa 2.
+5 Sont réservés les indices d’utilisation du sol fixés par les plans d’affectation du sol adoptés avant le 16 mai 2013 ou par les projets de plans d’affectation du sol mis à l’enquête publique avant cette date.

@@ -1,0 +1,2 @@
+# Art. 8A Aliénation des logements destinés à la vente
+Si un logement destiné à la vente selon l’article 5, alinéa 1, lettre b, est loué pendant la période de contrôle instituée par l’article 5, alinéa 3, son aliénation ne peut en principe pas être autorisée en application de l’article 39, alinéa 4, lettre a, de la loi sur les démolitions, transformations et rénovations de maisons d’habitation, du 25 janvier 1996.
