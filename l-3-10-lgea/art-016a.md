@@ -1,0 +1,3 @@
+# Art. 16A Coordination des procédures
+1 Lorsqu'il est prévu que des déchets minéraux de provenance extérieure à la gravière soient stockés provisoirement et/ou traités sur le site d'une gravière, une seule autorisation d'exploiter est délivrée par le département, laquelle comprend à la fois le volet autorisation d'exploiter une gravière au sens de la présente loi et celui relatif à l'autorisation d'exploiter une installation d'élimination de déchets au sens de la loi sur la gestion des déchets, du 20 mai 1999.
+2 L'autorisation d'exploiter conjointe comprend également la durée maximale des activités de stockage provisoire et/ou de traitement de déchets minéraux de provenance extérieure à la gravière.
