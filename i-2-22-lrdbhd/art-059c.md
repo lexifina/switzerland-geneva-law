@@ -1,0 +1,4 @@
+# Art. 59C Exigibilité et calcul de la taxe
+1 La taxe est exigible dès le 1er janvier pour l'année civile en cours. Le bordereau de taxation vaut titre de main levée définitive au sens de l’article 80, alinéa 2, chiffre 2, de la loi fédérale sur la poursuite pour dettes et la faillite, du 11 avril 1889.
+2 En cas d'ouverture d'une nouvelle entreprise en cours d'année, la taxe est calculée au prorata du nombre de mois entiers restant à courir depuis le commencement de l'exploitation jusqu'à la fin de l'année civile en cours. Elle est exigible dès le premier jour du mois suivant l'ouverture de l’entreprise.
+3 En cas de fermeture définitive d’une entreprise en cours d’année, le département rembourse à la personne qui a payé la taxe la part de celle-ci calculée au prorata du nombre de mois entiers courus depuis la fermeture de l’entreprise jusqu’à la fin de l’année civile. Le remboursement intervient sans intérêts.

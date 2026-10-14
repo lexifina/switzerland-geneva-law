@@ -1,0 +1,3 @@
+# Art. 4A Interdiction des discriminations
+1 Dans l’exploitation des entreprises soumises à la présente loi, toute discrimination directe ou indirecte dans l’accès aux prestations fondée sur une caractéristique personnelle, notamment l’origine, l’âge, le sexe, l’orientation affective et sexuelle, l’identité de genre, l’expression de genre, l’intersexuation, les incapacités, les particularités physiques, la situation sociale ou familiale, les convictions religieuses ou politiques, et qui entraîne un refus de prester est interdite.
+2 L’application de l’alinéa 1 tient compte des nécessités objectives d’exploitation des entreprises concernées.
