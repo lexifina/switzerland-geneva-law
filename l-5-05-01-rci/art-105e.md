@@ -1,0 +1,5 @@
+# Art. 105E « Clés de service »
+1 Les clés des cylindres de service, dénommées « clés de service », sont détenues par les Services industriels de Genève, le service d'incendie et de secours de la Ville de Genève, le service de l'environnement et des risques majeurs, le service de l'air, du bruit et des rayonnements non ionisants, l'office cantonal de la protection de la population et des affaires militaires, la direction de l’inspectorat de la construction, les compagnies communales de sapeurs-pompiers, la police et les entreprises d'ambulances agréées par le Conseil d'Etat.
+2 Les « clés de service » sont également remises, par les Services industriels de Genève, aux entreprises définies sous l’article 105A, alinéa 1, lettre d.
+3 Les propriétaires qui auront formellement demandé que l'accès à leurs immeubles soit strictement réservé aux seuls services mentionnés à l'article 105A, alinéa 1, lettres a et b, pourront munir, à leurs frais, les accès d'un cylindre d'une hiérarchie limitant cet accès aux seuls services susmentionnés.
+4 Les frais relatifs à la distribution et la gestion des « clés de service » sont facturés aux requérants.

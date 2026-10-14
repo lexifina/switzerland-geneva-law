@@ -1,0 +1,3 @@
+# Art. 105B Mode de fermeture
+1 Les accès aux immeubles et aux installations mentionnées à l’article 105A ne peuvent être verrouillés que par une serrure à double cylindre ou un système équivalent agréé par les Service industriels de Genève; lorsqu’il existe plusieurs accès, les « portes équipées » de la serrure à double cylindre sont déterminées par les Services industriels de Genève après consultation de la direction de l’inspectorat de la construction.
+2 Les coffrets « feu », les coffrets de colonnes sèches et les commandes de rappel « ascenseur » doivent être munis d’un cylindre de service.
