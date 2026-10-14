@@ -1,0 +1,3 @@
+# Art. 66B Frais de contrôle
+1 L'office peut percevoir des frais, selon un tarif horaire de 150 francs, pour les contrôles qu'il exécute dans le cadre de ses compétences, notamment lorsque des contrôles complémentaires sont nécessaires en raison de la mauvaise exécution de ses prescriptions.
+2 Il perçoit le même tarif horaire pour l’examen de la demande d’équivalence avec le groupe de confiance d’autres dispositifs chargés de la protection des lanceuses et lanceurs d’alerte et la délivrance d’un préavis conformément aux articles 5 et 6 du règlement d'application de la loi sur la protection des lanceurs d'alerte au sein de l'Etat, du 16 mars 2022. Les frais restent acquis ou dus en cas de retrait de la demande d’équivalence ou de préavis négatif.
