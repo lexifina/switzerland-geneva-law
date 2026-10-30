@@ -1,0 +1,11 @@
+# Règlement interdisant la descente des hydravions commerciaux sur la partie du lac de Genève entre le pont du Mont-Blanc et la Versoix (RHydr)
+
+RHydr · 1 versions, from 2011-07-07 (latest in force: 2011-07-07) · <https://silgeneve.ch/legis/program/books/rsg/htm/rsg_h3_15p03.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Titre et préambule | [ingress.md](ingress.md) | 0 |  |

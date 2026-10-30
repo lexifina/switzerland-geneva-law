@@ -1,0 +1,11 @@
+{
+  "path": "ch-ge",
+  "code": "CH-GE",
+  "name": "Geneva",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-geneva-law",
+  "build": "built: 737 acts, 737 versions",
+  "language": "fr",
+  "sources": 1
+}
